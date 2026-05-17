@@ -1,0 +1,2001 @@
+district,city,landSize,buildingSize,bedrooms,bathrooms,floors,garages,electricity,furnishing,priceNumeric
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,Lainnya,Unfurnished,950000000
+Ngaglik,Sleman,262.0,155.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1200000000
+Depok,Sleman,177.0,85.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1200000000
+Ngaglik,Sleman,710.0,200.0,5.0,3.0,1.0,2.0,Lainnya,Unfurnished,2400000000
+Gondokusuman,Yogyakarta,136.0,136.0,5.0,2.0,1.0,,2200 Watt,Unfurnished,800000000
+Depok,Sleman,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Semi Furnished,625000000
+Gondokusuman,Yogyakarta,136.0,136.0,5.0,2.0,1.0,,2200 Watt,Unfurnished,800000000
+Godean,Sleman,,,,,,,,,1650000000
+,,108.0,109.0,3.0,3.0,,,2200 Watt,,1650000000
+,,110.0,114.0,3.0,3.0,,,2200 Watt,,1750000000
+,,110.0,114.0,3.0,3.0,,,2200 Watt,,1750000000
+Gondokusuman,Yogyakarta,135.0,250.0,8.0,5.0,2.0,,Lainnya,Unfurnished,3000000000
+Sleman,Yogyakarta,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Semi Furnished,625000000
+Mantrijeron,Yogyakarta,350.0,250.0,7.0,2.0,1.0,,Lainnya,Unfurnished,2500000000
+Ngemplak,Sleman,,,,,,,,,1500000000
+,,115.0,160.0,4.0,3.0,,,3500 Watt,,1900000000
+,,120.0,120.0,4.0,3.0,,,3500 Watt,,1500000000
+,,121.0,120.0,4.0,3.0,,,3500 Watt,,1500000000
+,,122.0,120.0,4.0,3.0,,,3500 Watt,,1500000000
+,,208.0,120.0,4.0,3.0,,,3500 Watt,,1500000000
+Ngaglik,Sleman,103.0,120.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1600000000
+Maguwoharjo,Yogyakarta,200.0,107.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1550000000
+Kaliurang,Sleman,90.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,945000000
+Bambanglipuro,Bantul,,,,,,,,,166000000
+,,30.0,63.0,2.0,1.0,,,900 Watt,,166000000
+,,30.0,63.0,2.0,1.0,,,900 Watt,,166000000
+Condong Catur,Sleman,200.0,107.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1500000000
+Sleman,Sleman,126.0,100.0,3.0,2.0,1.0,,Lainnya,Furnished,1400000000
+Sleman,Yogyakarta,109.0,108.0,3.0,3.0,2.0,,22000 Watt,Unfurnished,1550000000
+Ngaglik,Sleman,,,,,,,,,789500000
+,,93.0,45.0,2.0,1.0,,,Lainnya,,855000000
+,,93.0,45.0,2.0,1.0,,,Lainnya,,789500000
+,,112.0,45.0,2.0,1.0,,,Lainnya,,894500000
+Sleman,Yogyakarta,52.0,52.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,650000000
+Gamping,Sleman,398.0,477.0,9.0,8.0,1.0,2.0,4400 Watt,Unfurnished,6750000000
+Mantrijeron,Yogyakarta,201.0,149.0,5.0,2.0,1.0,1.0,2200 Watt,Unfurnished,1750000000
+Sleman,Sleman,93.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,600000000
+Sleman,Sleman,113.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1100000000
+Sleman,Sleman,118.0,90.0,3.0,2.0,2.0,,2200 Watt,Semi Furnished,1200000000
+Sleman,Sleman,103.0,120.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1650000000
+Sleman,Sleman,52.0,52.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,335000000
+Kalasan,Sleman,92.0,70.0,3.0,2.0,2.0,,Lainnya,Semi Furnished,635600000
+Sleman,Yogyakarta,110.0,120.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1200000000
+Mlati,Sleman,770.0,1000.0,8.0,6.0,2.0,4.0,6600 Watt,Furnished,17000000000
+Wonosari,Gunung Kidul,,,,,,,,,329050000
+,,108.0,73.0,3.0,1.0,,,1300 Watt,,498500000
+,,108.0,98.0,4.0,2.0,,,1300 Watt,,649600000
+,,96.0,53.0,2.0,1.0,,,1300 Watt,,408750000
+,,96.0,99.0,3.0,4.0,,,1300 Watt,,627200000
+,,80.0,46.0,2.0,1.0,,,1300 Watt,,350100000
+,,90.0,44.0,2.0,1.0,,,1300 Watt,,365400000
+,,90.0,93.0,3.0,3.0,,,1300 Watt,,590000000
+,,75.0,43.0,2.0,1.0,,,1300 Watt,,329050000
+Pajangan,Bantul,103.0,90.0,2.0,2.0,1.0,,Lainnya,Unfurnished,650000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Banguntapan,Bantul,180.0,175.0,5.0,5.0,2.0,,4400 Watt,Unfurnished,2980000000
+Sleman,Sleman,,,,,,,,,775000000
+,,112.0,60.0,3.0,2.0,,,2200 Watt,,885000000
+,,113.0,60.0,3.0,2.0,,,2200 Watt,,890000000
+,,104.0,60.0,3.0,2.0,,,2200 Watt,,855000000
+,,111.0,60.0,3.0,2.0,,,2200 Watt,,880000000
+,,112.0,60.0,3.0,2.0,,,2200 Watt,,885000000
+,,113.0,60.0,3.0,2.0,,,2200 Watt,,890000000
+,,114.0,60.0,3.0,2.0,,,2200 Watt,,895000000
+,,94.0,60.0,3.0,2.0,,,2200 Watt,,780000000
+,,93.0,60.0,3.0,2.0,,,2200 Watt,,775000000
+Sleman,Sleman,153.0,90.0,3.0,2.0,2.0,1.0,Lainnya,Semi Furnished,1600000000
+Godean,Sleman,110.0,114.0,3.0,3.0,1.0,,Lainnya,,1550000000
+Mlati,Sleman,99.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,785000000
+Wonosari,Gunung Kidul,,,,,,,,,350000000
+,,70.0,40.0,2.0,1.0,,,1300 Watt,,350000000
+,,80.0,40.0,2.0,1.0,,,1300 Watt,,395000000
+Depok,Sleman,80.0,130.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1550000000
+Mlati,Sleman,161.0,100.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Ngaglik,Sleman,180.0,218.0,3.0,3.0,2.0,,3500 Watt,Furnished,5900000000
+Gamping,Sleman,,,,,,,,,485000000
+,,90.15,60.0,2.0,,,,1300 Watt,,485000000
+,,90.67,60.0,2.0,1.0,,,1300 Watt,,485000000
+,,90.68,60.0,2.0,1.0,,,1300 Watt,,485000000
+,,90.49,60.0,2.0,1.0,,,1300 Watt,,485000000
+,,90.29,60.0,2.0,1.0,,,1300 Watt,,485000000
+,,90.08,60.0,2.0,1.0,,,1300 Watt,,485000000
+,,93.58,60.0,2.0,1.0,,,1300 Watt,,485000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,,Lainnya,Unfurnished,585000000
+Ngaglik,Sleman,149.0,120.0,3.0,2.0,1.0,,1300 Watt,,1390000000
+Gamping,Sleman,260.0,580.0,8.0,4.0,1.0,1.0,Lainnya,Unfurnished,8400000000
+Kasihan,Bantul,64.0,40.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,435000000
+Banguntapan,Bantul,78.0,50.0,2.0,1.0,1.0,,Lainnya,Furnished,799000000
+Sewon,Bantul,81.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,765000000
+Maguwoharjo,Yogyakarta,130.0,126.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,2600000000
+Pogung,Yogyakarta,393.0,300.0,12.0,12.0,2.0,,Lainnya,Furnished,5500000000
+Wates,Kulon Progo,208.0,85.0,2.0,2.0,1.0,,1300 Watt,Semi Furnished,799000000
+Ngaglik,Sleman,1059.0,400.0,5.0,4.0,2.0,2.0,Lainnya,Semi Furnished,5800000000
+Purwomartani,Sleman,200.0,120.0,3.0,2.0,1.0,,2200 Watt,Furnished,1850000000
+Ngaglik,Sleman,127.0,75.0,3.0,2.0,1.0,,2200 Watt,Furnished,1350000000
+Depok,Sleman,331.0,420.0,5.0,6.0,2.0,,Lainnya,Unfurnished,4700000000
+Ngaglik,Sleman,232.0,175.0,4.0,5.0,2.0,1.0,Lainnya,Unfurnished,3300000000
+Gamping,Sleman,,,,,,,,,911000000
+,,94.0,65.0,2.0,2.0,,,3500 Watt,,911000000
+,,110.0,70.0,2.0,2.0,,,3500 Watt,,1097000000
+Mergangsan,Yogyakarta,255.0,360.0,12.0,12.0,2.0,1.0,Lainnya,Unfurnished,2300000000
+Sleman,Yogyakarta,80.0,120.0,3.0,3.0,2.0,,1300 Watt,Unfurnished,750000000
+Kalasan,Sleman,101.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,825000000
+Kalasan,Sleman,,,,,,,,,1600000000
+,,118.0,75.0,3.0,2.0,,,3500 Watt,,1900000000
+,,108.0,70.0,3.0,2.0,,,3500 Watt,,1600000000
+Kalasan,Sleman,194.0,140.0,3.0,2.0,1.0,,Lainnya,Furnished,1600000000
+Ngemplak,Sleman,119.0,85.0,3.0,2.0,1.0,,Lainnya,Furnished,1200000000
+Ngemplak,Sleman,92.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,910000000
+Gedong Tengen,Yogyakarta,793.0,321.0,3.0,2.0,1.0,,Lainnya,Unfurnished,11000000000
+Umbulharjo,Yogyakarta,100.0,135.0,3.0,2.0,2.0,,Lainnya,Furnished,1450000000
+Sleman,Sleman,210.0,190.0,,,1.0,,Lainnya,Unfurnished,380000000
+Gondokusuman,Yogyakarta,782.0,161.0,5.0,2.0,1.0,3.0,1300 Watt,Unfurnished,4700000000
+Pogung,Yogyakarta,291.0,250.0,5.0,3.0,2.0,2.0,Lainnya,Unfurnished,3290000000
+Mlati,Sleman,173.0,160.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1600000000
+Ngemplak,Sleman,120.0,80.0,3.0,2.0,1.0,,Lainnya,Furnished,825000000
+Kalasan,Sleman,102.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,650000000
+Ngaglik,Sleman,255.0,225.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,3600000000
+Ngaglik,Sleman,126.0,100.0,2.0,3.0,2.0,,3500 Watt,Unfurnished,2490000000
+Ngaglik,Sleman,123.0,110.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1300000000
+Gamping,Sleman,,,,,,,,,1765000000
+,,75.0,118.0,3.0,2.0,,,Lainnya,,1765000000
+,,70.0,108.0,2.0,2.0,,,Lainnya,,2000000000
+Ngaglik,Sleman,105.0,120.0,3.0,3.0,2.0,,Lainnya,Furnished,1500000000
+Gamping,Sleman,260.0,580.0,8.0,6.0,4.0,3.0,Lainnya,Furnished,8400000000
+Pogung,Yogyakarta,98.0,150.0,5.0,1.0,2.0,1.0,Lainnya,,1490000000
+Godean,Sleman,,,,,,,,,670000000
+,,90.0,55.0,2.0,1.0,,,1300 Watt,,670000000
+,,90.0,90.0,3.0,3.0,,,2200 Watt,,965000000
+,,100.0,100.0,3.0,3.0,,,2200 Watt,,1050000000
+Banguntapan,Bantul,61.0,40.0,2.0,1.0,1.0,,Lainnya,,485000000
+Gamping,Sleman,101.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Kaliurang,Sleman,1250.0,450.0,4.0,3.0,1.0,,2200 Watt,Semi Furnished,3800000000
+Patuk,Gunung Kidul,,,,,,,,,320000000
+,,36.0,72.0,2.0,1.0,,,1300 Watt,,320000000
+,,43.0,72.0,2.0,1.0,,,1300 Watt,,379000000
+,,50.0,84.0,3.0,1.0,,,1300 Watt,,550000000
+,,72.0,120.0,3.0,2.0,,,2200 Watt,,789000000
+,,80.0,140.0,3.0,3.0,,,2200 Watt,,1100000000
+Ngaglik,Sleman,145.0,111.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1370000000
+Mlati,Sleman,100.0,252.0,4.0,3.0,1.0,1.0,Lainnya,Unfurnished,1980000000
+Sleman,Sleman,240.0,480.0,7.0,4.0,1.0,3.0,3300 Watt,Furnished,3500000000
+Wirobrajan,Yogyakarta,,,,,,,,,1199000000
+,,78.0,80.0,3.0,2.0,,,2200 Watt,,1427000000
+,,72.0,76.0,3.0,2.0,,1.0,2200 Watt,,1199000000
+Sleman,Sleman,787.0,727.0,29.0,29.0,1.0,4.0,Lainnya,Unfurnished,10000000000
+Sleman,Sleman,122.0,65.0,3.0,2.0,1.0,2.0,Lainnya,,750000000
+Mlati,Sleman,122.0,170.0,5.0,3.0,2.0,1.0,Lainnya,Furnished,1300000000
+Condong Catur,Sleman,105.0,155.0,4.0,4.0,2.0,1.0,Lainnya,,1850000000
+Sleman,Sleman,108.0,38.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,510000000
+Ngaglik,Sleman,232.0,175.0,5.0,5.0,2.0,2.0,Lainnya,Unfurnished,3300000000
+Kalasan,Sleman,107.0,43.0,2.0,1.0,1.0,,900 Watt,Unfurnished,485000000
+Kaliurang,Sleman,106.0,70.0,2.0,2.0,1.0,,1300 Watt,Semi Furnished,600000000
+Sewon,Bantul,80.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,765000000
+Mlati,Sleman,124.0,135.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1600000000
+Ngaglik,Sleman,103.0,120.0,3.0,3.0,2.0,1.0,Lainnya,Semi Furnished,1650000000
+Ngaglik,Sleman,102.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,900000000
+Ngaglik,Sleman,90.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,924700000
+Sleman,Sleman,200.0,107.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1500000000
+Kasihan,Bantul,77.0,48.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,575000000
+Kasihan,Bantul,86.0,60.0,3.0,1.0,1.0,2.0,Lainnya,,495000000
+Caturtunggal,Sleman,211.0,250.0,11.0,12.0,2.0,2.0,Lainnya,,3300000000
+Kraton,Yogyakarta,746.0,476.0,5.0,6.0,1.0,1.0,Lainnya,,8450000000
+Gamping,Sleman,126.0,120.0,4.0,3.0,1.0,,2200 Watt,Unfurnished,2000000000
+Sleman,Sleman,139.0,175.0,4.0,4.0,2.0,,Lainnya,Unfurnished,1900000000
+Sleman,Yogyakarta,115.0,170.0,4.0,4.0,2.0,,Lainnya,Unfurnished,2080000000
+Purwomartani,Sleman,180.0,180.0,4.0,4.0,2.0,1.0,Lainnya,Unfurnished,2300000000
+Sleman,Sleman,115.0,170.0,4.0,4.0,2.0,,Lainnya,Furnished,2080000000
+Depok,Sleman,131.0,130.0,3.0,3.0,2.0,,3500 Watt,Furnished,3700000000
+Sleman,Sleman,108.0,38.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,510000000
+Mantrijeron,Yogyakarta,120.0,90.0,4.0,4.0,2.0,,Lainnya,Furnished,1800000000
+Ngaglik,Sleman,125.0,160.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2490000000
+Wirobrajan,Yogyakarta,301.0,200.0,4.0,2.0,2.0,,Lainnya,Unfurnished,4175000000
+Umbulharjo,Yogyakarta,450.0,300.0,15.0,6.0,,,2200 Watt,Unfurnished,1600000000
+Condong Catur,Sleman,488.0,321.0,6.0,5.0,2.0,2.0,3300 Watt,Unfurnished,3600000000
+Ngaglik,Sleman,45.0,45.0,1.0,1.0,1.0,1.0,2200 Watt,Furnished,465000000
+Condong Catur,Sleman,395.0,540.0,14.0,15.0,3.0,,Lainnya,Furnished,7500000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2400000000
+Sleman,Yogyakarta,108.0,38.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,510000000
+Sleman,Sleman,108.0,45.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,580000000
+Depok,Sleman,101.0,110.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1420000000
+Ngaglik,Sleman,180.0,205.0,4.0,3.0,2.0,,7700 Watt,Furnished,6250000000
+Ngaglik,Sleman,145.0,100.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1250000000
+Seturan,Yogyakarta,249.0,400.0,14.0,14.0,2.0,,Lainnya,Furnished,3700000000
+Sleman,Yogyakarta,223.0,200.0,3.0,2.0,2.0,,2200 Watt,Furnished,2000000000
+Banguntapan,Bantul,76.0,60.0,2.0,2.0,1.0,1.0,Lainnya,,759000000
+Purwomartani,Sleman,200.0,120.0,3.0,2.0,1.0,,2200 Watt,Furnished,1850000000
+Ngaglik,Sleman,520.0,500.0,5.0,5.0,2.0,1.0,Lainnya,Unfurnished,6000000000
+Caturtunggal,Sleman,143.0,180.0,4.0,3.0,2.0,,Lainnya,Semi Furnished,2750000000
+Pogung,Yogyakarta,201.0,188.0,10.0,4.0,1.0,3.0,Lainnya,Furnished,2850000000
+Ngemplak,Sleman,122.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,870000000
+Ngemplak,Sleman,115.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,765000000
+Ngaglik,Sleman,98.0,125.0,3.0,3.0,2.0,,Lainnya,Furnished,1750000000
+Ngemplak,Sleman,97.0,100.0,3.0,2.0,3.0,,Lainnya,Furnished,1100000000
+Banguntapan,Bantul,61.0,45.0,2.0,1.0,1.0,,Lainnya,Furnished,485000000
+Sewon,Bantul,145.0,290.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1900000000
+Depok,Sleman,939.0,806.0,20.0,10.0,2.0,7.0,Lainnya,Semi Furnished,5700000000
+Banguntapan,Bantul,111.0,178.0,5.0,3.0,2.0,,Lainnya,Furnished,1850000000
+Sewon,Bantul,24.0,240.0,3.0,3.0,1.0,,1300 Watt,Unfurnished,985000000
+Gamping,Sleman,80.0,40.0,2.0,1.0,,,1300 Watt,Unfurnished,395000000
+Mlati,Sleman,231.0,242.0,4.0,2.0,2.0,1.0,Lainnya,Unfurnished,3250000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,585000000
+Condong Catur,Sleman,250.0,200.0,4.0,3.0,1.0,1.0,2200 Watt,Furnished,1700000000
+Purwomartani,Sleman,398.0,144.0,4.0,3.0,1.0,,Lainnya,Semi Furnished,1950000000
+Ngemplak,Sleman,449.0,140.0,4.0,2.0,1.0,,Lainnya,Unfurnished,2000000000
+Purwomartani,Sleman,170.0,1120.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1380000000
+Sleman,Sleman,100.0,60.0,2.0,2.0,1.0,,1300 Watt,Unfurnished,570000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,585000000
+Purwomartani,Sleman,70.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,490000000
+Ngemplak,Sleman,116.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngaglik,Sleman,280.0,600.0,6.0,5.0,3.0,3.0,Lainnya,Semi Furnished,7700000000
+Sewon,Bantul,300.0,250.0,,,1.0,,1300 Watt,Unfurnished,1900000000
+Seturan,Yogyakarta,290.0,500.0,19.0,19.0,2.0,7.0,1300 Watt,,5500000000
+Mlati,Sleman,100.0,110.0,4.0,1.0,2.0,,Lainnya,,900000000
+Maguwoharjo,Yogyakarta,140.0,125.0,3.0,3.0,2.0,,Lainnya,,3800000000
+Ngaglik,Sleman,128.0,150.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1500000000
+Caturtunggal,Sleman,123.0,130.0,4.0,4.0,2.0,,3500 Watt,Unfurnished,2280000000
+Bantul,Bantul,128.0,250.0,4.0,3.0,2.0,,Lainnya,,1300000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,585000000
+Ngemplak,Sleman,105.0,100.0,3.0,3.0,2.0,,1300 Watt,Unfurnished,950000000
+Sedayu,Bantul,74.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,299000000
+Ngaglik,Sleman,101.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,925000000
+Kalasan,Sleman,90.0,56.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,675000000
+Ngemplak,Sleman,160.0,90.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,985000000
+Ngaglik,Sleman,96.0,55.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,579000000
+Kasihan,Bantul,106.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,595000000
+Kasihan,Bantul,83.0,60.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,495000000
+Godean,Sleman,98.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,650000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2400000000
+Sleman,Sleman,197.0,196.0,4.0,4.0,2.0,,5500 Watt,Semi Furnished,3900000000
+Gamping,Sleman,168.0,214.0,4.0,4.0,2.0,,5500 Watt,Unfurnished,2300000000
+Mlati,Sleman,160.0,147.0,4.0,2.0,2.0,,4400 Watt,Furnished,2600000000
+Sleman,Sleman,152.0,150.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,2900000000
+Depok,Sleman,166.0,176.0,4.0,3.0,1.0,1.0,2200 Watt,Unfurnished,1480000000
+Sleman,Yogyakarta,263.0,171.0,5.0,4.0,2.0,,2200 Watt,Furnished,3500000000
+Mlati,Sleman,199.0,140.0,4.0,4.0,2.0,,5500 Watt,Furnished,2300000000
+Ngemplak,Sleman,449.0,140.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,2000000000
+Gamping,Sleman,108.0,38.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,510000000
+Godean,Sleman,108.0,38.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,510000000
+Ngaglik,Sleman,101.0,70.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,925000000
+Purwomartani,Sleman,115.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,790000000
+Sewon,Bantul,120.0,80.0,2.0,1.0,1.0,1.0,Lainnya,Furnished,1300000000
+Purwomartani,Sleman,194.0,140.0,3.0,2.0,1.0,,1300 Watt,Furnished,1600000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2400000000
+Sleman,Sleman,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1480000000
+Sleman,Yogyakarta,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1470000000
+Ngemplak,Sleman,107.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1150000000
+Ngaglik,Sleman,107.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1200000000
+Sleman,Sleman,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,,1540000000
+Ngaglik,Sleman,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1280000000
+Mlati,Sleman,101.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1150000000
+Mlati,Sleman,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1270000000
+Sleman,Sleman,101.0,90.0,3.0,3.0,2.0,1.0,2200 Watt,,823000000
+Sleman,Sleman,101.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1200000000
+Sleman,Yogyakarta,126.0,110.0,3.0,3.0,2.0,1.0,2200 Watt,Unfurnished,1290000000
+Sleman,Yogyakarta,92.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,905000000
+Ngaglik,Sleman,92.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,905000000
+Sleman,Sleman,100.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,991000000
+Mlati,Sleman,92.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,902000000
+Kaliurang,Yogyakarta,92.0,90.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,906000000
+Ngaglik,Sleman,126.0,100.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1400000000
+Sleman,Yogyakarta,126.0,100.0,3.0,3.0,1.0,1.0,Lainnya,Unfurnished,1410000000
+Ngaglik,Sleman,102.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,906000000
+Moyudan,Sleman,86.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,331000000
+Sleman,Sleman,88.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,402000000
+Pengasih,Kulon Progo,128.0,70.0,3.0,2.0,2.0,,Lainnya,Semi Furnished,628500000
+Gamping,Sleman,105.0,50.0,2.0,1.0,1.0,,Lainnya,Semi Furnished,399000000
+Maguwoharjo,Yogyakarta,200.0,107.0,4.0,3.0,2.0,,Lainnya,Semi Furnished,1500000000
+Sleman,Sleman,86.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,331000000
+Maguwoharjo,Yogyakarta,174.0,133.0,4.0,4.0,2.0,,Lainnya,,1500000000
+Sleman,Yogyakarta,99.0,55.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,785000000
+Sleman,Yogyakarta,1234.0,410.0,6.0,5.0,2.0,2.0,10000 Watt,Furnished,8900000000
+Ngaglik,Sleman,1234.0,410.0,6.0,5.0,2.0,2.0,10000 Watt,Furnished,8900000000
+Umbulharjo,Yogyakarta,160.0,150.0,4.0,1.0,1.0,,Lainnya,Semi Furnished,1300000000
+Ngaglik,Sleman,180.0,260.0,5.0,3.0,1.0,,Lainnya,Unfurnished,2200000000
+Kraton,Yogyakarta,315.0,200.0,4.0,3.0,1.0,,1300 Watt,Unfurnished,1700000000
+Kasihan,Bantul,239.0,184.0,,,1.0,,2200 Watt,Unfurnished,1600000000
+Kaliurang,Sleman,2005.0,300.0,4.0,7.0,2.0,,6600 Watt,Furnished,3600000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,,1.0,,Lainnya,Unfurnished,398000000
+Kalasan,Sleman,92.0,45.0,2.0,1.0,1.0,,1300 Watt,Semi Furnished,570000000
+Temon,Kulon Progo,127.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,362000000
+Wates,Kulon Progo,127.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,362000000
+Umbulharjo,Yogyakarta,107.0,90.0,3.0,2.0,2.0,,1300 Watt,Semi Furnished,1240000000
+Mlati,Sleman,123.0,110.0,3.0,2.0,2.0,,1300 Watt,Semi Furnished,1270000000
+Ngaglik,Sleman,92.0,90.0,3.0,3.0,2.0,,1300 Watt,Semi Furnished,900000000
+Ngaglik,Sleman,103.0,120.0,3.0,3.0,2.0,,1300 Watt,Semi Furnished,1650000000
+Tegalrejo,Yogyakarta,103.0,90.0,3.0,2.0,2.0,,2200 Watt,Semi Furnished,1300000000
+Maguwoharjo,Yogyakarta,128.0,168.0,4.0,4.0,3.0,,4400 Watt,Unfurnished,3300000000
+Mergangsan,Yogyakarta,673.0,260.0,12.0,4.0,1.0,,5500 Watt,Unfurnished,5100000000
+Gamping,Sleman,676.0,550.0,7.0,5.0,2.0,,1300 Watt,Unfurnished,8000000000
+Ngaglik,Sleman,169.0,110.0,3.0,1.0,1.0,1.0,3500 Watt,Unfurnished,2000000000
+Sleman,Sleman,331.0,400.0,4.0,6.0,1.0,,4400 Watt,Unfurnished,5500000000
+Sleman,Yogyakarta,124.0,127.0,4.0,2.0,2.0,,2200 Watt,,2450000000
+Godean,Sleman,338.0,400.0,5.0,3.0,2.0,,Lainnya,Unfurnished,4500000000
+Ngaglik,Sleman,200.0,300.0,4.0,4.0,2.0,1.0,3500 Watt,,3200000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,,3500 Watt,,4900000000
+Kalasan,Sleman,115.0,50.0,2.0,1.0,,,Lainnya,Unfurnished,980000000
+Gamping,Sleman,168.0,214.0,4.0,4.0,2.0,,5500 Watt,Unfurnished,2300000000
+Sleman,Sleman,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Semi Furnished,625000000
+Kasihan,Bantul,146.0,200.0,5.0,3.0,2.0,,2200 Watt,Unfurnished,2500000000
+Kalasan,Sleman,702.0,500.0,7.0,5.0,2.0,1.0,2200 Watt,Furnished,4500000000
+Sleman,Yogyakarta,148.0,200.0,4.0,4.0,2.0,,5500 Watt,Furnished,3600000000
+Sleman,Yogyakarta,260.0,600.0,5.0,5.0,3.0,2.0,5500 Watt,Semi Furnished,8400000000
+Sleman,Yogyakarta,91.0,95.0,3.0,2.0,2.0,1.0,2200 Watt,Furnished,600000000
+Mlati,Sleman,482.0,360.0,5.0,5.0,2.0,,Lainnya,Semi Furnished,11500000000
+Banguntapan,Bantul,242.0,100.0,4.0,2.0,,,4400 Watt,Semi Furnished,1750000000
+Mlati,Sleman,90.0,155.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,785000000
+Ngaglik,Sleman,123.0,110.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1300000000
+Ngaglik,Sleman,123.0,110.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1260000000
+Ngaglik,Sleman,92.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,906700000
+Ngemplak,Sleman,243.0,370.0,20.0,20.0,3.0,16.0,Lainnya,Furnished,3400000000
+Maguwoharjo,Yogyakarta,132.0,60.0,3.0,2.0,1.0,,Lainnya,,876000000
+Berbah,Sleman,86.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,544000000
+Sleman,Yogyakarta,120.0,100.0,3.0,2.0,1.0,,1300 Watt,Furnished,950000000
+Sleman,Sleman,98.0,54.0,3.0,1.0,1.0,,1300 Watt,Semi Furnished,786000000
+Caturtunggal,Yogyakarta,112.0,100.0,3.0,2.0,1.0,,Lainnya,Furnished,1200000000
+Kaliurang,Sleman,108.0,80.0,3.0,,1.0,,Lainnya,,950000000
+Depok,Sleman,101.0,80.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,951000000
+Ngaglik,Sleman,126.0,79.0,1.0,1.0,1.0,,Lainnya,Furnished,1300000000
+Gamping,Sleman,120.0,114.0,3.0,2.0,2.0,,2200 Watt,Furnished,2380000000
+Mlati,Sleman,952.0,329.0,5.0,4.0,2.0,4.0,3300 Watt,Unfurnished,5400000000
+Condong Catur,Sleman,432.0,500.0,12.0,5.0,2.0,,2200 Watt,Unfurnished,4800000000
+Ngemplak,Sleman,160.0,270.0,4.0,3.0,1.0,,2200 Watt,Furnished,2200000000
+Kalasan,Sleman,143.0,120.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,875000000
+Gamping,Sleman,126.0,120.0,4.0,3.0,2.0,,2200 Watt,,2000000000
+Ngemplak,Sleman,97.0,128.0,4.0,2.0,2.0,,Lainnya,,1900000000
+Kalasan,Sleman,160.0,160.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1250000000
+Kalasan,Sleman,296.0,288.0,6.0,4.0,2.0,,4400 Watt,Furnished,4000000000
+Depok,Sleman,312.0,600.0,25.0,24.0,3.0,4.0,900 Watt,Furnished,7500000000
+Ngemplak,Sleman,150.0,160.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1500000000
+Mlati,Sleman,144.0,153.0,4.0,4.0,2.0,,2200 Watt,,3080000000
+Depok,Sleman,117.0,100.0,3.0,3.0,2.0,1.0,2200 Watt,Furnished,2100000000
+Depok,Sleman,421.0,320.0,5.0,5.0,2.0,,Lainnya,Semi Furnished,5500000000
+Sleman,Sleman,85.0,60.0,3.0,2.0,1.0,,2200 Watt,Semi Furnished,625000000
+Ngaglik,Sleman,200.0,210.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2900000000
+Ngaglik,Sleman,129.0,140.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,2200000000
+Ngaglik,Sleman,152.0,150.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2900000000
+Umbulharjo,Yogyakarta,690.0,488.0,7.0,7.0,2.0,1.0,11000 Watt,Unfurnished,8000000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,,3500 Watt,,4900000000
+Ngemplak,Sleman,126.0,136.0,4.0,4.0,2.0,,3500 Watt,Furnished,1900000000
+Mlati,Sleman,124.0,127.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,2450000000
+Depok,Sleman,775.0,575.0,10.0,9.0,1.0,1.0,Lainnya,Semi Furnished,12980000000
+Mlati,Sleman,160.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1100000000
+Depok,Sleman,172.0,150.0,3.0,2.0,1.0,,4400 Watt,Unfurnished,2200000000
+Mlati,Sleman,119.0,180.0,4.0,3.0,2.0,,2200 Watt,Semi Furnished,1800000000
+Depok,Sleman,365.0,365.0,7.0,4.0,2.0,1.0,5500 Watt,Semi Furnished,4500000000
+Sleman,Yogyakarta,172.0,125.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1730000000
+Sleman,Sleman,400.0,300.0,7.0,5.0,1.0,1.0,2200 Watt,Furnished,6500000000
+Sleman,Sleman,89.0,150.0,2.0,3.0,2.0,1.0,Lainnya,Semi Furnished,650000000
+Sleman,Sleman,135.0,115.0,3.0,2.0,2.0,,4400 Watt,Furnished,1500000000
+Sleman,Sleman,178.0,111.0,4.0,2.0,2.0,,4400 Watt,Furnished,1850000000
+Ngaglik,Sleman,231.0,231.0,5.0,5.0,2.0,1.0,Lainnya,Unfurnished,4250000000
+Gamping,Sleman,280.0,276.0,4.0,3.0,1.0,1.0,3500 Watt,Unfurnished,3750000000
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,950000000
+Ngaglik,Sleman,710.0,200.0,5.0,3.0,1.0,1.0,900 Watt,Unfurnished,2400000000
+Ngaglik,Sleman,254.0,400.0,6.0,4.0,1.0,,5500 Watt,Unfurnished,4500000000
+Sewon,Bantul,281.0,275.0,8.0,8.0,2.0,,2200 Watt,Unfurnished,3000000000
+Sewon,Bantul,247.0,150.0,5.0,2.0,1.0,,900 Watt,Unfurnished,500000000
+Kalasan,Sleman,121.0,45.0,3.0,2.0,2.0,1.0,3300 Watt,Furnished,250000000
+Depok,Sleman,100.0,91.0,2.0,1.0,1.0,,Lainnya,Unfurnished,850000000
+Ngaglik,Sleman,98.0,125.0,3.0,3.0,2.0,,2200 Watt,Furnished,1750000000
+Kalasan,Sleman,101.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Ngaglik,Sleman,110.0,90.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1500000000
+Sleman,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Ngaglik,Sleman,125.0,160.0,4.0,3.0,2.0,2.0,Lainnya,Furnished,2550000000
+Kalasan,Sleman,146.0,120.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,500000000
+Ngaglik,Sleman,159.0,175.0,5.0,4.0,2.0,2.0,Lainnya,Semi Furnished,2600000000
+Mlati,Sleman,120.0,60.0,3.0,2.0,1.0,2.0,1300 Watt,Furnished,750000000
+Ngaglik,Sleman,110.0,135.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,1650000000
+Sleman,Sleman,103.0,72.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,595000000
+Depok,Sleman,130.0,150.0,3.0,3.0,2.0,2.0,Lainnya,Unfurnished,1500000000
+Ngemplak,Sleman,150.0,108.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,1890000000
+Ngaglik,Sleman,143.0,88.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,890000000
+Ngaglik,Sleman,112.0,90.0,3.0,3.0,2.0,2.0,Lainnya,Unfurnished,1250000000
+Sleman,Sleman,108.0,90.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1750000000
+Ngaglik,Sleman,90.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Ngaglik,Sleman,90.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Ngaglik,Sleman,167.0,230.0,4.0,4.0,2.0,,Lainnya,Semi Furnished,3500000000
+Ngemplak,Sleman,125.0,70.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,4290000000
+Depok,Sleman,117.0,150.0,3.0,3.0,2.0,1.0,2200 Watt,Furnished,1950000000
+Sleman,Sleman,219.0,113.0,2.0,1.0,1.0,1.0,2200 Watt,Unfurnished,1450000000
+Ngaglik,Sleman,140.0,150.0,3.0,3.0,2.0,1.0,1300 Watt,Furnished,1860000000
+Sleman,Yogyakarta,256.0,180.0,5.0,2.0,1.0,,Lainnya,Unfurnished,1500000000
+Kaliurang,Sleman,310.0,771.0,31.0,31.0,3.0,,Lainnya,Furnished,10500000000
+Condong Catur,Sleman,215.0,200.0,4.0,3.0,2.0,,Lainnya,Unfurnished,2500000000
+Ngemplak,Sleman,90.0,90.0,4.0,2.0,1.0,,Lainnya,,920000000
+Condong Catur,Sleman,1073.0,1100.0,41.0,41.0,2.0,1.0,Lainnya,Furnished,11000000000
+Tegalrejo,Yogyakarta,293.0,200.0,2.0,2.0,1.0,,2200 Watt,Semi Furnished,3200000000
+Tegalrejo,Yogyakarta,321.0,262.0,6.0,3.0,2.0,1.0,2200 Watt,,3500000000
+Ngaglik,Sleman,92.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,906000000
+Depok,Sleman,104.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,932000000
+Sleman,Yogyakarta,113.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Ngemplak,Sleman,126.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,955000000
+Ngemplak,Sleman,136.0,137.0,3.0,3.0,1.0,,2200 Watt,Unfurnished,1200000000
+Ngemplak,Sleman,498.0,300.0,5.0,3.0,2.0,1.0,Lainnya,Unfurnished,1850000000
+Kalasan,Sleman,163.0,100.0,3.0,2.0,1.0,,900 Watt,Unfurnished,1150000000
+Ngemplak,Sleman,82.0,55.0,2.0,1.0,1.0,,Lainnya,Unfurnished,669000000
+Ngemplak,Sleman,108.0,70.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,799000000
+Kaliurang,Sleman,90.0,108.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1200000000
+Mlati,Sleman,208.0,100.0,,,2.0,,Lainnya,Unfurnished,860000000
+Maguwoharjo,Yogyakarta,118.0,130.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,1690000000
+Ngemplak,Sleman,145.0,111.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1380000000
+Godean,Sleman,100.0,110.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1700000000
+Sleman,Yogyakarta,109.0,90.0,3.0,3.0,2.0,,1300 Watt,Unfurnished,936000000
+Gamping,Sleman,52.0,52.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,287000000
+Mlati,Sleman,52.0,52.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,568000000
+Gamping,Sleman,52.0,52.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,287000000
+Ngemplak,Sleman,123.0,90.0,3.0,2.0,1.0,,2200 Watt,Furnished,1290000000
+Gondokusuman,Yogyakarta,104.0,120.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1650000000
+Ngaglik,Sleman,104.0,36.0,2.0,1.0,1.0,1.0,3300 Watt,Furnished,370000000
+Ngaglik,Sleman,77.0,44.0,2.0,1.0,1.0,,Lainnya,Furnished,325000000
+Kasihan,Bantul,110.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,383000000
+Ngaglik,Sleman,324.0,252.0,5.0,4.0,2.0,2.0,Lainnya,Furnished,5000000000
+Ngaglik,Sleman,288.0,226.0,8.0,5.0,2.0,4.0,Lainnya,Semi Furnished,1490000000
+Condong Catur,Sleman,109.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1270000000
+Ngemplak,Sleman,123.0,90.0,3.0,2.0,1.0,,Lainnya,Furnished,1290000000
+Gamping,Sleman,101.0,42.0,2.0,1.0,1.0,1.0,900 Watt,Unfurnished,380000000
+Mlati,Sleman,74.0,60.0,3.0,2.0,1.0,1.0,900 Watt,Semi Furnished,480000000
+Tegalrejo,Yogyakarta,83.0,100.0,4.0,3.0,2.0,,Lainnya,Unfurnished,1250000000
+Mlati,Sleman,92.0,42.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,783000000
+Godean,Sleman,110.0,93.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,890000000
+Sleman,Yogyakarta,148.0,200.0,4.0,4.0,2.0,1.0,2200 Watt,Unfurnished,3190000000
+Gamping,Sleman,134.0,178.0,5.0,5.0,2.0,2.0,2200 Watt,Semi Furnished,3190000000
+Ngaglik,Sleman,146.0,100.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1280000000
+Sleman,Sleman,443.0,550.0,11.0,8.0,2.0,,3500 Watt,Semi Furnished,7100000000
+Ngaglik,Sleman,110.0,120.0,3.0,2.0,2.0,1.0,Lainnya,,1600000000
+Ngaglik,Sleman,107.0,90.0,3.0,2.0,2.0,1.0,Lainnya,,1100000000
+Ngaglik,Sleman,229.0,250.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,3500000000
+Sleman,Sleman,338.0,400.0,11.0,5.0,2.0,,2200 Watt,Unfurnished,3500000000
+Gondokusuman,Yogyakarta,136.0,136.0,5.0,2.0,1.0,,2200 Watt,Unfurnished,800000000
+Sleman,Yogyakarta,108.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,870000000
+Kasihan,Bantul,171.0,220.0,4.0,4.0,2.0,1.0,Lainnya,Unfurnished,2500000000
+Gamping,Sleman,117.0,110.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1500000000
+Bantul,Yogyakarta,84.0,60.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,495000000
+Ngaglik,Sleman,120.0,65.0,3.0,2.0,1.0,1.0,1300 Watt,,750000000
+Sleman,Sleman,115.0,78.0,3.0,2.0,1.0,1.0,1300 Watt,,985000000
+Sleman,Yogyakarta,103.0,75.0,3.0,1.0,1.0,,Lainnya,,565000000
+Maguwoharjo,Yogyakarta,286.0,200.0,3.0,2.0,,,1300 Watt,Semi Furnished,1500000000
+Sleman,Yogyakarta,346.0,176.0,7.0,4.0,1.0,1.0,2200 Watt,,3900000000
+Sleman,Yogyakarta,148.0,170.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2700000000
+Pogung,Yogyakarta,443.0,215.0,4.0,3.0,2.0,1.0,3500 Watt,Unfurnished,5350000000
+Berbah,Sleman,85.0,60.0,1.0,1.0,1.0,,Lainnya,,580000000
+Ngaglik,Sleman,126.0,100.0,2.0,3.0,2.0,,Lainnya,Unfurnished,2500000000
+Depok,Sleman,243.0,370.0,20.0,20.0,3.0,16.0,Lainnya,Furnished,3400000000
+Godean,Sleman,114.0,80.0,3.0,3.0,2.0,2.0,Lainnya,Furnished,795000000
+Ngaglik,Sleman,120.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Godean,Sleman,90.0,45.0,2.0,1.0,1.0,,Lainnya,,470000000
+Godean,Sleman,90.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,450000000
+Pakem,Sleman,684.0,289.0,3.0,4.0,1.0,,4400 Watt,Semi Furnished,3680000000
+Ngaglik,Sleman,108.0,90.0,3.0,3.0,2.0,,2200 Watt,Furnished,1700000000
+Pakualaman,Yogyakarta,838.0,400.0,3.0,4.0,1.0,2.0,3500 Watt,Semi Furnished,12500000000
+Sleman,Sleman,128.0,210.0,3.0,3.0,2.0,1.0,4400 Watt,Unfurnished,2700000000
+Depok,Sleman,104.0,120.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1600000000
+Sleman,Sleman,106.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,900000000
+Umbulharjo,Yogyakarta,113.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Ngaglik,Sleman,113.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Depok,Sleman,108.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Ngemplak,Sleman,165.0,110.0,4.0,3.0,1.0,,Lainnya,Furnished,1780000000
+Maguwoharjo,Yogyakarta,104.0,125.0,3.0,3.0,2.0,,2200 Watt,Semi Furnished,1550000000
+Pogung,Yogyakarta,137.0,40.0,2.0,2.0,2.0,1.0,3300 Watt,Furnished,350000000
+Mantrijeron,Yogyakarta,73.0,45.0,2.0,1.0,1.0,,900 Watt,,450000000
+Kasihan,Bantul,80.0,36.0,2.0,1.0,1.0,,900 Watt,Unfurnished,370000000
+Gamping,Sleman,124.0,100.0,3.0,2.0,1.0,,1300 Watt,Furnished,950000000
+Kasihan,Bantul,80.0,40.0,2.0,1.0,1.0,,900 Watt,Unfurnished,450000000
+Bantul,Yogyakarta,330.0,78.0,3.0,2.0,1.0,1.0,1300 Watt,Semi Furnished,660000000
+Sleman,Sleman,110.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,900000000
+Kalasan,Sleman,550.0,220.0,3.0,1.0,1.0,2.0,,Furnished,3300000000
+Ngemplak,Sleman,190.0,300.0,6.0,4.0,2.0,4.0,Lainnya,Unfurnished,980000000
+Kalasan,Sleman,90.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,599000000
+Ngemplak,Sleman,82.0,55.0,2.0,1.0,1.0,,Lainnya,Unfurnished,690000000
+Kalasan,Sleman,200.0,120.0,3.0,2.0,1.0,,Lainnya,Furnished,1850000000
+Ngaglik,Sleman,96.0,55.0,3.0,1.0,1.0,,Lainnya,Unfurnished,579000000
+Maguwoharjo,Yogyakarta,165.0,110.0,4.0,3.0,2.0,,Lainnya,Furnished,1790000000
+Banguntapan,Bantul,61.0,45.0,2.0,1.0,1.0,,Lainnya,Furnished,485000000
+Kalasan,Sleman,90.0,60.0,3.0,2.0,1.0,,Lainnya,Unfurnished,725000000
+Godean,Sleman,113.0,80.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,822000000
+Sewon,Bantul,80.0,65.0,3.0,2.0,2.0,,Lainnya,Unfurnished,765000000
+Godean,Sleman,108.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1570000000
+Banguntapan,Bantul,74.0,48.0,2.0,1.0,1.0,,Lainnya,Unfurnished,499000000
+Kalasan,Sleman,101.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,825000000
+Mlati,Sleman,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Sleman,Yogyakarta,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Mlati,Sleman,161.0,100.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Mlati,Sleman,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Mlati,Sleman,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Mlati,Sleman,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Mlati,Sleman,161.0,110.0,2.0,2.0,1.0,,2200 Watt,Semi Furnished,1350000000
+Sleman,Sleman,161.0,110.0,3.0,2.0,1.0,1.0,2200 Watt,Semi Furnished,1350000000
+Kulonprogo,Kulon Progo,127.0,50.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,362000000
+Kaliurang,Sleman,139.0,110.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1350000000
+Sleman,Sleman,101.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,857000000
+Kaliurang,Yogyakarta,139.0,107.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1290000000
+Mlati,Sleman,110.0,250.0,4.0,4.0,2.0,,1300 Watt,Semi Furnished,1700000000
+Godean,Sleman,103.0,70.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,700000000
+Gamping,Sleman,148.0,200.0,4.0,4.0,2.0,,Lainnya,Unfurnished,3650000000
+Turi,Sleman,80.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,435000000
+Gamping,Sleman,154.0,118.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Sleman,Sleman,122.0,50.0,2.0,2.0,1.0,,1300 Watt,Semi Furnished,499000000
+Bantul,Yogyakarta,70.0,60.0,3.0,1.0,1.0,,1300 Watt,Furnished,415000000
+Ngaglik,Sleman,120.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,825000000
+Sleman,Sleman,101.0,70.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,550000000
+Ngemplak,Sleman,132.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,830000000
+Maguwoharjo,Yogyakarta,333.0,444.0,5.0,6.0,2.0,2.0,7700 Watt,Unfurnished,4000000000
+Mlati,Sleman,701.0,300.0,4.0,3.0,1.0,,Lainnya,Unfurnished,3300000000
+Kaliurang,Yogyakarta,130.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,760000000
+Maguwoharjo,Yogyakarta,122.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,870000000
+Kaliurang,Sleman,120.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Ngaglik,Sleman,110.0,120.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,450000000
+Seturan,Yogyakarta,126.0,180.0,10.0,10.0,2.0,3.0,Lainnya,Furnished,3200000000
+Depok,Sleman,115.0,78.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,985000000
+Godean,Sleman,155.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,850000000
+Ngaglik,Sleman,565.0,250.0,5.0,2.0,1.0,,Lainnya,Unfurnished,5270000000
+Ngaglik,Sleman,180.0,220.0,4.0,3.0,2.0,,5500 Watt,Furnished,4500000000
+Gondokusuman,Yogyakarta,158.0,120.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,1350000000
+Condong Catur,Sleman,188.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1450000000
+Kalasan,Sleman,80.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,650000000
+Kalasan,Sleman,80.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,650000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,690000000
+Depok,Sleman,293.0,150.0,6.0,5.0,1.0,,5500 Watt,,2150000000
+Depok,Sleman,346.0,176.0,6.0,4.0,2.0,1.0,2200 Watt,Unfurnished,3000000000
+Ngemplak,Sleman,76.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,547000000
+Kasihan,Bantul,598.0,364.0,4.0,3.0,2.0,,3500 Watt,Unfurnished,5200000000
+Sleman,Yogyakarta,89.0,150.0,2.0,3.0,2.0,1.0,Lainnya,Semi Furnished,650000000
+Sleman,Yogyakarta,117.0,100.0,3.0,3.0,2.0,1.0,2200 Watt,Unfurnished,2100000000
+Sleman,Sleman,375.0,100.0,3.0,1.0,1.0,,Lainnya,Unfurnished,950000000
+Sleman,Sleman,780.0,850.0,7.0,9.0,2.0,,Lainnya,Unfurnished,17500000000
+Umbulharjo,Yogyakarta,62.0,80.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1050000000
+Depok,Sleman,85.0,65.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1200000000
+Gedong Tengen,Yogyakarta,316.0,375.0,5.0,5.0,2.0,1.0,Lainnya,Furnished,7500000000
+Ngaglik,Sleman,146.0,106.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1350000000
+Ngaglik,Sleman,129.0,130.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1700000000
+Ngaglik,Sleman,110.0,150.0,4.0,3.0,2.0,,Lainnya,Unfurnished,1650000000
+Ngaglik,Sleman,108.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1270000000
+Sleman,Yogyakarta,102.0,65.0,3.0,2.0,2.0,,Lainnya,Unfurnished,867500000
+Mlati,Sleman,139.0,100.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1500000000
+Sleman,Sleman,80.0,80.0,2.0,1.0,1.0,,Lainnya,Unfurnished,425000000
+Tempel,Sleman,212.0,100.0,3.0,1.0,1.0,,Lainnya,Unfurnished,350000000
+Tegalrejo,Yogyakarta,320.0,200.0,4.0,2.0,1.0,,Lainnya,Semi Furnished,4000000000
+Mlati,Sleman,298.0,400.0,9.0,3.0,1.0,,Lainnya,Unfurnished,3300000000
+Kalasan,Sleman,121.0,45.0,3.0,1.0,1.0,1.0,3300 Watt,Furnished,250000000
+Godean,Sleman,110.0,45.0,2.0,1.0,1.0,1.0,3300 Watt,Furnished,350000000
+Sewon,Bantul,72.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,650000000
+Mlati,Sleman,114.0,150.0,5.0,5.0,2.0,,Lainnya,Unfurnished,2200000000
+Ngaglik,Sleman,105.0,157.0,,,1.0,,Lainnya,,1900000000
+Ngaglik,Sleman,447.0,500.0,28.0,28.0,3.0,,Lainnya,Unfurnished,7800000000
+Caturtunggal,Yogyakarta,137.0,250.0,13.0,13.0,2.0,2.0,,Furnished,3000000000
+Ngaglik,Sleman,150.0,170.0,3.0,3.0,2.0,,Lainnya,Furnished,1750000000
+Mlati,Sleman,150.0,250.0,11.0,12.0,2.0,,,Furnished,2500000000
+Caturtunggal,Yogyakarta,125.0,220.0,14.0,15.0,2.0,2.0,,Furnished,3300000000
+Condong Catur,Sleman,119.0,166.0,5.0,3.0,2.0,,Lainnya,,1500000000
+Ngaglik,Sleman,215.0,270.0,13.0,13.0,2.0,,Lainnya,Furnished,2975000000
+Mlati,Sleman,130.0,180.0,10.0,10.0,1.0,,Lainnya,,2900000000
+Ngemplak,Sleman,498.0,300.0,5.0,3.0,1.0,1.0,1300 Watt,,1900000000
+Depok,Sleman,101.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1100000000
+Sleman,Sleman,102.0,90.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,900000000
+Pogung,Yogyakarta,137.0,200.0,10.0,10.0,2.0,,1300 Watt,Furnished,3150000000
+Caturtunggal,Sleman,209.0,250.0,4.0,3.0,2.0,3.0,Lainnya,Semi Furnished,3000000000
+Ngaglik,Sleman,220.0,270.0,10.0,10.0,1.0,,Lainnya,Unfurnished,2300000000
+Sleman,Yogyakarta,106.0,90.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,900000000
+Sleman,Sleman,85.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,565000000
+Sleman,Yogyakarta,110.0,65.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,850000000
+Sleman,Sleman,136.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,870000000
+Demangan,Yogyakarta,782.0,162.0,5.0,2.0,1.0,,1300 Watt,,4000000000
+Ngaglik,Sleman,145.0,100.0,4.0,2.0,1.0,,Lainnya,,1200000000
+Sewon,Bantul,596.0,170.0,3.0,3.0,1.0,2.0,Lainnya,,2200000000
+Ngaglik,Sleman,130.0,155.0,3.0,3.0,2.0,,3300 Watt,,1900000000
+Ngaglik,Sleman,120.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Ngemplak,Sleman,115.0,78.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,985000000
+Banguntapan,Bantul,117.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,650000000
+Banguntapan,Bantul,61.0,40.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,485000000
+Mlati,Sleman,210.0,240.0,5.0,4.0,2.0,1.0,Lainnya,Unfurnished,3800000000
+Mlati,Sleman,99.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,605000000
+Sewon,Bantul,85.0,50.0,2.0,1.0,,1.0,Lainnya,Unfurnished,495000000
+Condong Catur,Sleman,220.0,400.0,11.0,12.0,2.0,3.0,3500 Watt,Furnished,3500000000
+Umbulharjo,Yogyakarta,500.0,600.0,12.0,10.0,2.0,2.0,3500 Watt,Unfurnished,6900000000
+Depok,Sleman,83.0,78.0,1.0,1.0,1.0,1.0,3500 Watt,Furnished,770000000
+Kalasan,Sleman,118.0,90.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,750000000
+Ngaglik,Sleman,145.0,100.0,4.0,2.0,1.0,2.0,Lainnya,Unfurnished,1270000000
+Kalasan,Sleman,108.0,170.0,4.0,4.0,2.0,2.0,Lainnya,Unfurnished,1750000000
+Ngaglik,Sleman,93.0,80.0,3.0,3.0,2.0,2.0,Lainnya,Unfurnished,1200000000
+Ngaglik,Sleman,107.0,71.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,785000000
+Ngaglik,Sleman,112.0,88.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,2100000000
+Ngaglik,Sleman,117.0,75.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,750000000
+Ngemplak,Sleman,103.0,120.0,4.0,4.0,2.0,2.0,Lainnya,Unfurnished,1300000000
+Ngaglik,Sleman,136.0,124.0,4.0,4.0,2.0,2.0,Lainnya,Unfurnished,1850000000
+Depok,Sleman,104.0,115.0,4.0,3.0,2.0,2.0,Lainnya,Furnished,1850000000
+Depok,Sleman,295.0,200.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,2000000000
+Ngaglik,Sleman,107.0,71.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,785000000
+Ngaglik,Sleman,125.0,150.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1800000000
+Sleman,Sleman,107.0,80.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,697000000
+Sleman,Sleman,104.0,65.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,550000000
+Mlati,Sleman,176.0,110.0,2.0,2.0,1.0,1.0,Lainnya,Unfurnished,1450000000
+Mlati,Sleman,111.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Ngaglik,Sleman,125.0,165.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,2250000000
+Ngemplak,Sleman,108.0,60.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,930000000
+Ngaglik,Sleman,200.0,425.0,13.0,14.0,2.0,4.0,Lainnya,Furnished,3850000000
+Banguntapan,Bantul,255.0,280.0,6.0,2.0,2.0,2.0,1300 Watt,Unfurnished,2000000000
+Kalasan,Sleman,114.0,57.0,2.0,1.0,1.0,1.0,1300 Watt,Furnished,690000000
+Banguntapan,Bantul,86.0,86.0,2.0,1.0,,1.0,1300 Watt,Unfurnished,480000000
+Gamping,Sleman,495.0,163.0,5.0,3.0,,2.0,3300 Watt,Unfurnished,3500000000
+Ngemplak,Sleman,130.0,260.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1700000000
+Kasihan,Bantul,128.0,250.0,4.0,3.0,2.0,2.0,1300 Watt,Unfurnished,1200000000
+Depok,Sleman,199.0,245.0,5.0,3.0,2.0,1.0,Lainnya,Unfurnished,1800000000
+Gamping,Sleman,150.0,336.0,7.0,3.0,3.0,,Lainnya,Furnished,2500000000
+Berbah,Sleman,103.0,64.0,2.0,2.0,,1.0,Lainnya,Unfurnished,580000000
+Ngemplak,Sleman,116.0,60.0,3.0,2.0,1.0,,1300 Watt,,450000000
+Banguntapan,Bantul,120.0,150.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,2300000000
+Banguntapan,Bantul,80.0,90.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,799000000
+Sewon,Bantul,845.0,600.0,10.0,5.0,2.0,1.0,Lainnya,Unfurnished,5500000000
+Ngemplak,Sleman,87.0,160.0,5.0,2.0,2.0,1.0,Lainnya,Unfurnished,975000000
+Kalasan,Sleman,168.0,250.0,5.0,3.0,2.0,1.0,Lainnya,Unfurnished,1390000000
+Ngaglik,Sleman,123.0,145.0,4.0,4.0,2.0,1.0,Lainnya,Furnished,1850000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,585000000
+Sleman,Sleman,100.0,65.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,749000000
+Kalasan,Sleman,144.0,107.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,1750000000
+Sidoarum,Sleman,100.0,150.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1700000000
+Kalasan,Sleman,200.0,120.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1850000000
+Kalasan,Sleman,180.0,180.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,2300000000
+Prambanan,Sleman,107.0,64.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,625000000
+Umbulharjo,Yogyakarta,153.0,107.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,1100000000
+Ngemplak,Sleman,115.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,775000000
+Ngaglik,Sleman,185.0,205.0,4.0,5.0,2.0,1.0,Lainnya,Furnished,2250000000
+Banguntapan,Bantul,62.0,40.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,525000000
+Mlati,Sleman,124.0,135.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1490000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,2400000000
+Ngemplak,Sleman,105.0,100.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,975000000
+Ngaglik,Sleman,90.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,798000000
+Ngaglik,Sleman,96.0,55.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,579000000
+Depok,Sleman,165.0,110.0,4.0,3.0,2.0,1.0,Lainnya,Furnished,1780000000
+Ngaglik,Sleman,105.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1500000000
+Kalasan,Sleman,88.0,36.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,399000000
+Godean,Sleman,512.0,250.0,5.0,6.0,2.0,1.0,Lainnya,Unfurnished,4100000000
+Ngemplak,Sleman,123.0,90.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1290000000
+Berbah,Sleman,90.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,725000000
+Mlati,Sleman,99.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,685000000
+Tempel,Sleman,126.0,160.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,575000000
+Ngaglik,Sleman,145.0,111.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,1370000000
+Ngaglik,Sleman,110.0,63.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,850000000
+Ngaglik,Sleman,130.0,142.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1900000000
+Ngemplak,Sleman,120.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,785000000
+Ngaglik,Sleman,143.0,77.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1200000000
+Banguntapan,Bantul,85.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,525000000
+Banguntapan,Bantul,65.0,45.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,425000000
+Seyegan,Sleman,100.0,60.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,575000000
+Jetis,Bantul,75.0,55.0,3.0,1.0,2.0,1.0,Lainnya,Unfurnished,465000000
+Jetis,Bantul,91.0,52.0,2.0,2.0,1.0,1.0,Lainnya,Unfurnished,399000000
+Depok,Sleman,104.0,115.0,4.0,3.0,2.0,1.0,Lainnya,Furnished,1860000000
+Seyegan,Sleman,122.0,70.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,550000000
+Mlati,Sleman,124.0,60.0,2.0,2.0,1.0,1.0,Lainnya,Unfurnished,740000000
+Ngemplak,Sleman,109.0,72.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,985000000
+Prambanan,Sleman,116.0,110.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,1140000000
+Ngaglik,Sleman,96.0,125.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1750000000
+Depok,Sleman,98.0,125.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1750000000
+Sleman,Sleman,158.0,115.0,4.0,4.0,2.0,2.0,Lainnya,Furnished,2200000000
+Ngemplak,Sleman,123.0,90.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1290000000
+Turi,Sleman,129.0,100.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,950000000
+Banguntapan,Bantul,117.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,650000000
+Kasihan,Bantul,77.0,50.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,575000000
+Banguntapan,Bantul,100.0,60.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,700000000
+Turi,Sleman,129.0,100.0,3.0,2.0,1.0,2.0,Lainnya,Furnished,950000000
+Kasihan,Bantul,102.0,138.0,3.0,2.0,2.0,2.0,Lainnya,Unfurnished,975000000
+Kasihan,Bantul,81.0,50.0,2.0,1.0,1.0,1.0,Lainnya,Furnished,480000000
+Gamping,Sleman,484.0,542.0,,7.0,5.0,2.0,Lainnya,Furnished,8000000000
+Banguntapan,Bantul,117.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,675000000
+Ngemplak,Sleman,117.0,150.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,1790000000
+Gamping,Sleman,107.0,90.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,950000000
+Maguwoharjo,Yogyakarta,128.0,180.0,4.0,4.0,2.0,2.0,Lainnya,Unfurnished,2500000000
+Mantrijeron,Yogyakarta,364.0,188.0,6.0,5.0,1.0,2.0,Lainnya,Furnished,3990000000
+Mergangsan,Yogyakarta,2600.0,400.0,4.0,5.0,,4.0,3500 Watt,Semi Furnished,35000000000
+Ngemplak,Sleman,132.0,117.0,3.0,3.0,2.0,,Lainnya,Furnished,1600000000
+Godean,Sleman,98.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,585000000
+Sleman,Sleman,100.0,60.0,2.0,2.0,1.0,,Lainnya,Unfurnished,580000000
+Purwomartani,Sleman,180.0,180.0,4.0,3.0,1.0,,Lainnya,Unfurnished,2300000000
+Banguntapan,Bantul,80.0,90.0,3.0,3.0,2.0,,Lainnya,Unfurnished,989000000
+Maguwoharjo,Yogyakarta,125.0,110.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1750000000
+Banguntapan,Bantul,108.0,100.0,4.0,3.0,2.0,,Lainnya,Unfurnished,999000000
+Purwomartani,Sleman,115.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,790000000
+Depok,Sleman,103.0,54.0,3.0,1.0,1.0,,Lainnya,Unfurnished,950000000
+Kalasan,Sleman,70.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,490000000
+Sleman,Sleman,151.0,185.0,3.0,3.0,3.0,,Lainnya,Furnished,2800000000
+Banguntapan,Bantul,92.0,150.0,3.0,4.0,2.0,,Lainnya,Furnished,1790000000
+Depok,Sleman,120.0,160.0,4.0,4.0,2.0,,Lainnya,Furnished,1750000000
+Kalasan,Sleman,132.0,192.0,5.0,3.0,2.0,,Lainnya,Semi Furnished,1750000000
+Kalasan,Sleman,102.0,80.0,3.0,2.0,1.0,,Lainnya,Unfurnished,680000000
+Kasihan,Bantul,78.0,47.0,2.0,1.0,1.0,,Lainnya,Unfurnished,580000000
+Ngaglik,Sleman,90.0,90.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,906700000
+Condong Catur,Sleman,103.0,120.0,3.0,3.0,2.0,,1300 Watt,Unfurnished,1650000000
+Sleman,Sleman,126.0,100.0,3.0,3.0,2.0,,2200 Watt,Furnished,1410000000
+Depok,Sleman,85.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1200000000
+Condong Catur,Sleman,100.0,90.0,3.0,2.0,1.0,,Lainnya,,680000000
+Ngemplak,Sleman,120.0,130.0,4.0,3.0,2.0,,Lainnya,,1890000000
+Umbulharjo,Yogyakarta,161.0,171.0,,,1.0,,Lainnya,Unfurnished,1100000000
+Godean,Sleman,104.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,620000000
+Sedayu,Bantul,110.0,93.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,920000000
+Godean,Sleman,120.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,624000000
+Godean,Sleman,60.0,30.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,166000000
+Kraton,Yogyakarta,350.0,250.0,5.0,6.0,2.0,,3500 Watt,Furnished,4200000000
+Ngaglik,Sleman,120.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Ngaglik,Sleman,120.0,65.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,750000000
+Depok,Sleman,104.0,125.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1790000000
+Depok,Sleman,140.0,200.0,4.0,4.0,2.0,,Lainnya,Unfurnished,2750000000
+Gamping,Sleman,109.0,108.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1550000000
+Sleman,Sleman,108.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1100000000
+Godean,Sleman,100.0,60.0,2.0,1.0,1.0,,Lainnya,Unfurnished,575000000
+Godean,Sleman,110.0,45.0,2.0,1.0,1.0,1.0,Lainnya,Furnished,370000000
+Kalasan,Sleman,121.0,45.0,2.0,1.0,1.0,1.0,Lainnya,Furnished,260000000
+Ngemplak,Sleman,115.0,78.0,3.0,2.0,1.0,,Lainnya,Unfurnished,985000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,398000000
+Condong Catur,Sleman,107.0,70.0,3.0,2.0,1.0,,Lainnya,Furnished,780000000
+Condong Catur,Sleman,171.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,1700000000
+Sleman,Sleman,144.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1000000000
+Ngaglik,Sleman,139.0,110.0,4.0,2.0,2.0,1.0,Lainnya,Unfurnished,1300000000
+Gondokusuman,Yogyakarta,496.0,190.0,3.0,2.0,1.0,,Lainnya,,4500000000
+Maguwoharjo,Yogyakarta,154.0,213.0,5.0,5.0,2.0,,2200 Watt,Furnished,2700000000
+Ngaglik,Sleman,130.0,154.0,3.0,4.0,2.0,,2200 Watt,Furnished,2200000000
+Sleman,Sleman,159.0,175.0,5.0,6.0,2.0,,2200 Watt,Furnished,2600000000
+Ngaglik,Sleman,159.0,175.0,4.0,5.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Sleman,Sleman,159.0,175.0,4.0,5.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Ngaglik,Sleman,102.0,100.0,4.0,5.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Sleman,Yogyakarta,159.0,175.0,4.0,5.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Ngaglik,Sleman,149.0,175.0,4.0,5.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Sleman,Sleman,149.0,175.0,5.0,6.0,2.0,,2200 Watt,Semi Furnished,2600000000
+Ngaglik,Sleman,342.0,150.0,5.0,3.0,1.0,1.0,1300 Watt,Furnished,2000000000
+Ngaglik,Sleman,100.0,200.0,3.0,3.0,2.0,1.0,2200 Watt,Furnished,1250000000
+Depok,Sleman,559.0,400.0,7.0,4.0,2.0,1.0,Lainnya,Unfurnished,5500000000
+Purwomartani,Sleman,175.0,120.0,3.0,2.0,1.0,,Lainnya,Unfurnished,700000000
+Depok,Sleman,110.0,120.0,4.0,3.0,2.0,1.0,2200 Watt,Unfurnished,1650000000
+Condong Catur,Sleman,85.0,65.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1200000000
+Sleman,Yogyakarta,110.0,120.0,3.0,2.0,2.0,,Lainnya,Semi Furnished,1600000000
+Banguntapan,Bantul,78.0,50.0,2.0,1.0,1.0,,Lainnya,,750000000
+Banguntapan,Bantul,78.0,50.0,2.0,1.0,1.0,,Lainnya,,750000000
+Ngaglik,Sleman,137.0,111.0,3.0,2.0,2.0,1.0,Lainnya,Furnished,1800000000
+Sleman,Yogyakarta,129.0,139.0,4.0,3.0,1.0,2.0,5500 Watt,Furnished,2250000000
+Sleman,Sleman,101.0,50.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,600000000
+Sleman,Sleman,100.0,55.0,2.0,1.0,1.0,,900 Watt,Unfurnished,449000000
+Gamping,Sleman,107.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,849000000
+Sleman,Sleman,139.0,155.0,3.0,3.0,2.0,3.0,Lainnya,Unfurnished,1500000000
+Depok,Sleman,184.0,240.0,5.0,4.0,2.0,2.0,Lainnya,Furnished,3100000000
+Pakem,Sleman,119.0,50.0,3.0,1.0,2.0,1.0,3300 Watt,Furnished,187000000
+Kaliurang,Sleman,119.0,45.0,2.0,2.0,1.0,1.0,3300 Watt,Furnished,190000000
+Ngaglik,Sleman,119.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,1200000000
+Ngaglik,Sleman,149.0,120.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,1390000000
+Ngaglik,Sleman,204.0,250.0,6.0,3.0,2.0,1.0,Lainnya,Furnished,3500000000
+Depok,Sleman,103.0,54.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,950000000
+Depok,Sleman,105.0,100.0,3.0,3.0,2.0,2.0,Lainnya,Unfurnished,950000000000
+Ngaglik,Sleman,146.0,100.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1280000000
+Ngaglik,Sleman,80.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,535000000
+Ngaglik,Sleman,200.0,180.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,4400000000
+Sleman,Sleman,99.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,785000000
+Mlati,Sleman,123.0,70.0,3.0,1.0,1.0,2.0,Lainnya,Unfurnished,1500000000
+Depok,Sleman,152.0,128.0,3.0,3.0,2.0,2.0,Lainnya,Furnished,2300000000
+Gondokusuman,Yogyakarta,400.0,500.0,9.0,6.0,2.0,4.0,Lainnya,Semi Furnished,7500000000
+Ngaglik,Sleman,285.0,179.0,5.0,2.0,1.0,2.0,Lainnya,Unfurnished,1650000000
+Sleman,Sleman,107.0,80.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,697000000
+Ngemplak,Sleman,120.0,90.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,825000000
+Ngaglik,Sleman,116.0,180.0,4.0,2.0,2.0,2.0,Lainnya,Furnished,2400000000
+Ngaglik,Sleman,129.0,90.0,3.0,2.0,1.0,2.0,Lainnya,Semi Furnished,1200000000
+Sleman,Sleman,94.0,63.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,630000000
+Pakem,Sleman,113.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,599000000
+Mlati,Sleman,123.0,70.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,820000000
+Prambanan,Sleman,90.0,36.0,2.0,1.0,2.0,,Lainnya,,535000000
+Ngemplak,Sleman,127.0,71.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,945000000
+Kalasan,Sleman,98.0,70.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Prambanan,Sleman,170.0,60.0,3.0,2.0,1.0,,Lainnya,Unfurnished,465000000
+Kalasan,Sleman,86.0,60.0,2.0,1.0,1.0,,Lainnya,Unfurnished,580000000
+Prambanan,Sleman,75.0,33.0,1.0,1.0,1.0,,Lainnya,,265000000
+Condong Catur,Sleman,120.0,160.0,4.0,3.0,2.0,2.0,Lainnya,Furnished,1850000000
+Ngemplak,Sleman,115.0,65.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,650000000
+Sekip,Yogyakarta,677.0,288.0,8.0,5.0,2.0,,Lainnya,Semi Furnished,8500000000
+Tegalrejo,Yogyakarta,143.0,100.0,3.0,2.0,1.0,,Lainnya,Furnished,1900000000
+Kota Baru,Yogyakarta,894.0,550.0,5.0,3.0,1.0,,3300 Watt,Unfurnished,26500000000
+Ngemplak,Sleman,115.0,65.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,650000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,4.0,Lainnya,Unfurnished,4200000000
+Umbulharjo,Yogyakarta,548.0,95.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,2500000000
+Mergangsan,Yogyakarta,1320.0,350.0,6.0,3.0,1.0,,Lainnya,Unfurnished,25000000000
+Umbulharjo,Yogyakarta,148.0,125.0,2.0,2.0,2.0,,Lainnya,Unfurnished,1800000000
+Gondokusuman,Yogyakarta,381.0,180.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,3100000000
+Umbulharjo,Yogyakarta,217.0,200.0,5.0,2.0,1.0,1.0,Lainnya,,1200000000
+Umbulharjo,Yogyakarta,475.0,153.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,4900000000
+Sewon,Bantul,408.0,200.0,4.0,2.0,,1.0,1300 Watt,Semi Furnished,2200000000
+Maguwoharjo,Yogyakarta,521.0,550.0,4.0,3.0,2.0,2.0,3500 Watt,Semi Furnished,4200000000
+Gondokusuman,Yogyakarta,333.0,150.0,,3.0,1.0,1.0,Lainnya,Unfurnished,2300000000
+Sleman,Sleman,711.0,255.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,2750000000
+Sleman,Sleman,186.0,150.0,3.0,4.0,2.0,1.0,900 Watt,Unfurnished,1300000000
+Kotagede,Yogyakarta,155.0,100.0,3.0,2.0,1.0,,900 Watt,Unfurnished,980000000
+Gondokusuman,Yogyakarta,744.0,1000.0,6.0,6.0,1.0,2.0,11000 Watt,Unfurnished,4900000000
+Ngaglik,Sleman,104.0,140.0,4.0,3.0,1.0,,2200 Watt,Unfurnished,1400000000
+Ngaglik,Sleman,152.0,150.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,2900000000
+Ngaglik,Sleman,152.0,150.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,2900000000
+Ngaglik,Sleman,144.0,280.0,1.0,7.0,2.0,1.0,1300 Watt,Unfurnished,1200000000
+Depok,Sleman,375.0,100.0,3.0,1.0,1.0,,1300 Watt,,950000000
+Mlati,Sleman,443.0,550.0,11.0,8.0,2.0,,3500 Watt,Semi Furnished,7100000000
+Depok,Sleman,443.0,550.0,11.0,8.0,1.0,,3500 Watt,,7100000000
+Godean,Sleman,280.0,300.0,4.0,4.0,1.0,2.0,1300 Watt,Unfurnished,4500000000
+Godean,Sleman,559.0,380.0,6.0,3.0,1.0,,5500 Watt,Unfurnished,3900000000
+Kasihan,Bantul,529.0,450.0,10.0,4.0,2.0,,2200 Watt,Unfurnished,6980000000
+Condong Catur,Sleman,169.0,100.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1900000000
+Mlati,Sleman,125.0,68.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,650000000
+Depok,Sleman,160.0,225.0,4.0,3.0,1.0,,7700 Watt,Semi Furnished,3000000000
+Depok,Sleman,1485.0,1500.0,8.0,6.0,1.0,1.0,4400 Watt,Unfurnished,21000000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,,1300000000
+Sleman,Sleman,443.0,550.0,11.0,8.0,2.0,,3500 Watt,Semi Furnished,7100000000
+Sleman,Sleman,375.0,100.0,3.0,1.0,1.0,,Lainnya,Unfurnished,950000000
+Piyungan,Bantul,90.0,45.0,2.0,1.0,1.0,,1300 Watt,Semi Furnished,450000000
+Gondokusuman,Yogyakarta,131.0,150.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1200000000
+Mantrijeron,Yogyakarta,100.0,55.0,3.0,1.0,1.0,,Lainnya,,850000000
+Ngemplak,Sleman,150.0,108.0,3.0,2.0,2.0,,Lainnya,Furnished,1850000000
+Mergangsan,Yogyakarta,843.0,600.0,6.0,3.0,1.0,,Lainnya,,14750000000
+Umbulharjo,Yogyakarta,837.0,500.0,8.0,4.0,1.0,,Lainnya,,7000000000
+Moyudan,Sleman,162.0,65.0,3.0,1.0,1.0,,Lainnya,,600000000
+Kalasan,Sleman,146.0,107.0,4.0,3.0,2.0,,Lainnya,,1490000000
+Sedayu,Bantul,86.0,56.0,3.0,3.0,1.0,,1300 Watt,Unfurnished,485000000
+Banguntapan,Bantul,62.0,40.0,2.0,1.0,1.0,,1300 Watt,Semi Furnished,600000000
+Sedayu,Bantul,100.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,380000000
+Berbah,Sleman,1255.0,400.0,5.0,2.0,1.0,1.0,1300 Watt,Unfurnished,6800000000
+Sleman,Sleman,123.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1300000000
+Kaliurang,Sleman,123.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1300000000
+Kasihan,Bantul,107.0,50.0,2.0,1.0,1.0,1.0,Lainnya,Semi Furnished,386000000
+Sleman,Yogyakarta,145.0,90.0,3.0,2.0,2.0,1.0,Lainnya,Furnished,1960000000
+Kaliurang,Yogyakarta,153.0,90.0,3.0,2.0,2.0,2.0,Lainnya,Semi Furnished,1700000000
+Sleman,Sleman,153.0,90.0,3.0,2.0,2.0,2.0,Lainnya,Semi Furnished,1700000000
+Pogung,Yogyakarta,384.0,600.0,24.0,24.0,3.0,,Lainnya,Furnished,7900000000
+Mlati,Sleman,144.0,200.0,10.0,10.0,2.0,2.0,1300 Watt,Furnished,2650000000
+Depok,Sleman,212.0,540.0,15.0,15.0,3.0,2.0,Lainnya,Furnished,2800000000
+Condong Catur,Sleman,100.0,150.0,4.0,2.0,2.0,1.0,,Unfurnished,1200000000
+Condong Catur,Sleman,727.0,787.0,29.0,29.0,2.0,,22000 Watt,Unfurnished,10000000000
+Condong Catur,Sleman,150.0,270.0,,,1.0,,Lainnya,,3200000000
+Condong Catur,Sleman,137.0,250.0,13.0,13.0,2.0,2.0,1300 Watt,Furnished,3000000000
+Condong Catur,Sleman,180.0,250.0,19.0,6.0,2.0,,1300 Watt,Furnished,1950000000
+Ngaglik,Sleman,680.0,2200.0,50.0,50.0,3.0,,66000 Watt,Furnished,21500000000
+Umbulharjo,Yogyakarta,1080.0,1400.0,40.0,44.0,3.0,,47500 Watt,Furnished,22000000000
+Banguntapan,Bantul,128.0,120.0,3.0,3.0,2.0,,Lainnya,Furnished,1900000000
+Condong Catur,Sleman,140.0,120.0,4.0,3.0,2.0,1.0,2200 Watt,Semi Furnished,1500000000
+Mlati,Sleman,160.0,165.0,10.0,10.0,2.0,3.0,Lainnya,Furnished,2900000000
+Mlati,Sleman,952.0,329.0,3.0,3.0,1.0,2.0,Lainnya,,5400000000
+Gedong Tengen,Yogyakarta,381.0,202.0,6.0,2.0,1.0,1.0,2200 Watt,,3000000000
+Umbulharjo,Yogyakarta,161.0,171.0,,,1.0,,Lainnya,Unfurnished,1100000000
+Depok,Sleman,111.0,178.0,4.0,2.0,2.0,,4400 Watt,Unfurnished,1850000000
+Kalasan,Sleman,207.0,160.0,4.0,2.0,1.0,1.0,Lainnya,Semi Furnished,1280000000
+Mlati,Sleman,191.0,120.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2100000000
+Maguwoharjo,Yogyakarta,128.0,80.0,3.0,2.0,1.0,,Lainnya,Unfurnished,890000000
+Umbulharjo,Yogyakarta,164.0,142.0,3.0,2.0,2.0,,Lainnya,Unfurnished,750000000
+Kasihan,Bantul,83.0,60.0,3.0,1.0,1.0,,Lainnya,Unfurnished,495000000
+Mlati,Sleman,98.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,785000000
+Sleman,Sleman,120.0,104.0,2.0,1.0,1.0,2.0,Lainnya,Unfurnished,690000000
+Sleman,Sleman,125.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,780000000
+Ngaglik,Sleman,146.0,170.0,4.0,3.0,2.0,2.0,Lainnya,Semi Furnished,2500000000
+Sleman,Sleman,158.0,180.0,5.0,5.0,2.0,2.0,Lainnya,Unfurnished,3250000000
+Ngaglik,Sleman,130.0,45.0,2.0,1.0,1.0,2.0,Lainnya,Unfurnished,650000000
+Ngaglik,Sleman,110.0,135.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,1650000000
+Ngaglik,Sleman,90.0,180.0,4.0,3.0,2.0,2.0,Lainnya,Semi Furnished,990000000
+Ngaglik,Sleman,135.0,170.0,5.0,3.0,2.0,2.0,Lainnya,Unfurnished,1700000000
+Ngaglik,Sleman,126.0,110.0,4.0,2.0,2.0,2.0,Lainnya,Furnished,1300000000
+Ngaglik,Sleman,113.0,101.0,3.0,3.0,2.0,,Lainnya,,2200000000
+Ngaglik,Sleman,113.0,88.0,3.0,2.0,2.0,,Lainnya,Furnished,2100000000
+Berbah,Sleman,144.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1000000000
+Godean,Sleman,112.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,876000000
+Sleman,Yogyakarta,110.0,126.0,3.0,3.0,,2.0,Lainnya,Semi Furnished,1280000000
+Sleman,Yogyakarta,110.0,126.0,3.0,3.0,,2.0,Lainnya,Semi Furnished,1280000000
+Sleman,Yogyakarta,110.0,117.0,3.0,3.0,2.0,2.0,Lainnya,Semi Furnished,1500000000
+Kaliurang,Sleman,153.0,90.0,3.0,2.0,2.0,2.0,Lainnya,,1700000000
+Sleman,Sleman,100.0,139.0,3.0,3.0,2.0,2.0,Lainnya,Furnished,1500000000
+Sleman,Yogyakarta,171.0,123.0,3.0,3.0,2.0,2.0,Lainnya,Semi Furnished,1850000000
+Sleman,Sleman,110.0,136.0,3.0,3.0,2.0,2.0,Lainnya,Semi Furnished,1500000000
+Sleman,Sleman,285.0,179.0,5.0,2.0,1.0,2.0,Lainnya,Unfurnished,1650000000
+Sedayu,Bantul,142.0,90.0,3.0,2.0,1.0,,Lainnya,,580000000
+Kalasan,Sleman,174.0,130.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1700000000
+Sleman,Yogyakarta,104.0,95.0,3.0,2.0,2.0,1.0,2200 Watt,Furnished,700000000
+Umbulharjo,Yogyakarta,100.0,54.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,850000000
+Ngemplak,Sleman,110.0,105.0,3.0,3.0,2.0,2.0,Lainnya,Furnished,1750000000
+Godean,Sleman,108.0,45.0,3.0,1.0,1.0,1.0,3300 Watt,Furnished,350000000
+Ngaglik,Sleman,90.0,130.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,1400000000
+Kalasan,Sleman,203.0,120.0,3.0,2.0,1.0,2.0,Lainnya,Furnished,1750000000
+Depok,Sleman,128.0,180.0,4.0,4.0,2.0,2.0,Lainnya,Furnished,2500000000
+Mlati,Sleman,104.0,104.0,3.0,3.0,2.0,2.0,Lainnya,Unfurnished,1350000000
+Kasihan,Bantul,165.0,300.0,5.0,6.0,2.0,4.0,Lainnya,Furnished,3300000000
+Condong Catur,Sleman,130.0,180.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,2100000000
+Ngemplak,Sleman,275.0,160.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,2000000000
+Condong Catur,Sleman,105.0,155.0,4.0,5.0,2.0,2.0,Lainnya,Unfurnished,1850000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,2400000000
+Ngemplak,Sleman,162.0,120.0,4.0,2.0,2.0,2.0,Lainnya,Unfurnished,1760000000
+Bantul,Bantul,164.0,230.0,3.0,3.0,2.0,2.0,Lainnya,Semi Furnished,875000000
+Pakem,Sleman,472.0,130.0,5.0,3.0,1.0,2.0,Lainnya,Unfurnished,3500000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Umbulharjo,Yogyakarta,197.0,308.0,4.0,3.0,2.0,,3300 Watt,Unfurnished,2200000000
+Sleman,Yogyakarta,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,625000000
+Depok,Sleman,213.0,256.0,20.0,20.0,2.0,,Lainnya,,3750000000
+Kaliurang,Sleman,117.0,45.0,3.0,2.0,1.0,1.0,3300 Watt,Furnished,187000000
+Kaliurang,Sleman,145.0,45.0,2.0,1.0,1.0,1.0,3300 Watt,Furnished,350000000
+Godean,Sleman,108.0,45.0,2.0,2.0,1.0,,Lainnya,Furnished,313000000
+Tempel,Sleman,160.0,45.0,2.0,1.0,1.0,1.0,3300 Watt,Furnished,280000000
+Kalasan,Sleman,109.0,45.0,2.0,1.0,1.0,1.0,3300 Watt,Furnished,195000000
+Prambanan,Sleman,110.0,125.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1200000000
+Sleman,Sleman,45.0,39.0,2.0,2.0,1.0,,1300 Watt,Unfurnished,295000000
+Sleman,Sleman,120.0,75.0,3.0,2.0,1.0,,1300 Watt,,750000000
+Sleman,Yogyakarta,85.0,45.0,2.0,1.0,1.0,1.0,1300 Watt,Furnished,525000000
+Ngaglik,Sleman,171.0,123.0,3.0,3.0,2.0,3.0,Lainnya,Semi Furnished,1850000000
+Sleman,Sleman,100.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,575000000
+Sleman,Sleman,136.0,80.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,1570000000
+Ngaglik,Sleman,180.0,220.0,4.0,3.0,2.0,,Lainnya,Furnished,3990000000
+Depok,Sleman,337.0,281.0,5.0,4.0,2.0,2.0,2200 Watt,Semi Furnished,3000000000
+Godean,Sleman,113.0,110.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,1600000000
+Umbulharjo,Yogyakarta,109.0,180.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1850000000
+Condong Catur,Sleman,180.0,140.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1450000000
+Godean,Sleman,128.0,70.0,3.0,2.0,1.0,,Lainnya,,800000000
+Maguwoharjo,Yogyakarta,151.0,161.0,3.0,4.0,2.0,,Lainnya,Unfurnished,1500000000
+Ngaglik,Sleman,119.0,85.0,3.0,2.0,1.0,,2200 Watt,Furnished,1200000000
+Sedayu,Bantul,100.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,435000000
+Mlati,Sleman,99.0,70.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,685000000
+Sidoarum,Yogyakarta,109.0,114.0,3.0,3.0,2.0,,2200 Watt,Furnished,1500000000
+Sleman,Sleman,117.0,110.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1530000000
+Kalasan,Sleman,132.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,870000000
+Kraton,Yogyakarta,350.0,250.0,5.0,5.0,1.0,,Lainnya,Semi Furnished,4200000000
+Mantrijeron,Yogyakarta,264.0,400.0,5.0,5.0,2.0,1.0,Lainnya,,3000000000
+Kulonprogo,Kulon Progo,157.0,50.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,488000000
+Kotagede,Yogyakarta,72.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,325000000
+Terban,Yogyakarta,374.0,150.0,3.0,,1.0,,Lainnya,Unfurnished,5200000000
+Pakualaman,Yogyakarta,684.0,349.0,6.0,7.0,1.0,,7700 Watt,Furnished,15000000000
+Patuk,Gunung Kidul,72.0,43.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,380000000
+Playen,Gunung Kidul,60.0,30.0,2.0,1.0,1.0,,900 Watt,Unfurnished,200000000
+Cebongan,Sleman,174.0,100.0,2.0,2.0,2.0,1.0,5500 Watt,Furnished,2100000000
+Ngaglik,Sleman,262.0,155.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1200000000
+Kaliurang,Yogyakarta,300.0,265.0,5.0,4.0,2.0,3.0,Lainnya,,4900000000
+Ngemplak,Sleman,123.0,90.0,3.0,2.0,1.0,,Lainnya,,1220000000
+Ngaglik,Sleman,190.0,120.0,4.0,4.0,2.0,,Lainnya,Unfurnished,2100000000
+Ngaglik,Sleman,93.0,80.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1170000000
+Ngemplak,Sleman,102.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,450000000
+Purwomartani,Sleman,203.0,120.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,1740000000
+Ngemplak,Sleman,160.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,985000000
+Ngemplak,Sleman,111.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,400000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,,Lainnya,,4200000000
+Sleman,Yogyakarta,152.0,150.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2900000000
+Sleman,Sleman,124.0,127.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2450000000
+Purwomartani,Sleman,215.0,169.0,4.0,4.0,2.0,,3500 Watt,Furnished,2400000000
+Pakem,Sleman,126.0,79.0,3.0,1.0,1.0,,Lainnya,Semi Furnished,1340000000
+Pandak,Bantul,245.0,150.0,4.0,3.0,1.0,4.0,Lainnya,,500000000
+Jetis,Bantul,80.0,100.0,2.0,2.0,2.0,1.0,Lainnya,,550000000
+Condong Catur,Sleman,162.0,230.0,4.0,4.0,3.0,,3500 Watt,Furnished,6800000000
+Kota Baru,Yogyakarta,297.0,180.0,6.0,2.0,1.0,,1300 Watt,Unfurnished,5000000000
+Panjatan,Kulon Progo,96.0,50.0,3.0,1.0,1.0,,Lainnya,Unfurnished,446800000
+Piyungan,Bantul,90.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,375000000
+Kulonprogo,Yogyakarta,114.0,50.0,2.0,1.0,1.0,,Lainnya,Semi Furnished,398000000
+Pundong,Bantul,88.0,42.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,350000000
+Wirobrajan,Yogyakarta,402.0,173.0,4.0,3.0,1.0,3.0,Lainnya,Unfurnished,3200000000
+Godean,Sleman,103.0,120.0,3.0,4.0,2.0,,Lainnya,Furnished,1600000000
+Prambanan,Sleman,60.0,30.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,255000000
+Condong Catur,Sleman,97.0,93.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,1500000000
+Mlati,Sleman,166.0,200.0,3.0,3.0,2.0,1.0,Lainnya,Unfurnished,2650000000
+Tempel,Sleman,80.0,30.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,354000000
+Mlati,Sleman,110.0,107.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2110000000
+Mlati,Sleman,260.0,142.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,4490000000
+Mlati,Sleman,153.0,135.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,3230000000
+Kalasan,Sleman,61.0,35.0,2.0,1.0,1.0,1.0,900 Watt,Unfurnished,280000000
+Godean,Sleman,108.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1550000000
+Kalasan,Sleman,70.0,45.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,490000000
+Piyungan,Bantul,90.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,375000000
+Maguwoharjo,Yogyakarta,131.0,130.0,3.0,3.0,2.0,,3500 Watt,Furnished,3700000000
+Sleman,Yogyakarta,222.0,100.0,2.0,1.0,1.0,1.0,Lainnya,Semi Furnished,750000000
+Wates,Kulon Progo,230.0,125.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,600000000
+Prambanan,Sleman,110.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,550000000
+Prambanan,Sleman,80.0,55.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,395000000
+Sleman,Sleman,126.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,799000000
+Mlati,Sleman,80.0,30.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,354000000
+Cebongan,Sleman,120.0,118.0,3.0,3.0,2.0,,2200 Watt,Furnished,2600000000
+Tempel,Sleman,190.0,86.0,,,1.0,,Lainnya,Unfurnished,285000000
+Godean,Sleman,114.0,165.0,,,2.0,,Lainnya,Unfurnished,520000000
+Wirobrajan,Yogyakarta,135.0,179.0,4.0,4.0,2.0,2.0,2200 Watt,Semi Furnished,3200000000
+Sleman,Sleman,112.0,80.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,745000000
+Condong Catur,Sleman,97.0,93.0,3.0,2.0,1.0,,2200 Watt,Semi Furnished,1500000000
+Berbah,Sleman,117.0,68.0,2.0,1.0,1.0,,Lainnya,Unfurnished,287000000
+Gamping,Sleman,90.0,75.0,2.0,2.0,2.0,,Lainnya,Semi Furnished,1850000000
+Sedayu,Bantul,74.0,43.0,3.0,1.0,2.0,,Lainnya,Unfurnished,430000000
+Kasihan,Bantul,96.0,51.0,,,1.0,,Lainnya,Unfurnished,227000000
+Sedayu,Bantul,73.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Wirobrajan,Yogyakarta,363.0,265.0,6.0,4.0,2.0,2.0,2200 Watt,Furnished,6000000000
+Ngaglik,Sleman,60.0,56.0,,,1.0,,Lainnya,Unfurnished,390000000
+Condong Catur,Sleman,97.0,93.0,3.0,2.0,1.0,,2200 Watt,Furnished,1500000000
+Depok,Sleman,70.0,45.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,491000000
+Kasihan,Bantul,83.0,60.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,495000000
+Kasihan,Bantul,90.0,70.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,590000000
+Gamping,Sleman,135.0,90.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1500000000
+Umbulharjo,Yogyakarta,171.0,150.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,990000000
+Sedayu,Bantul,200.0,180.0,3.0,2.0,1.0,,Lainnya,Unfurnished,550000000
+Sedayu,Bantul,60.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,325000000
+Sedayu,Bantul,80.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,309000000
+Sleman,Sleman,1000.0,400.0,8.0,8.0,1.0,,6600 Watt,Furnished,6900000000
+Sedayu,Bantul,200.0,180.0,3.0,2.0,1.0,,3300 Watt,Unfurnished,550000000
+Gamping,Sleman,204.0,200.0,2.0,2.0,2.0,,7700 Watt,Unfurnished,1800000000
+Wirobrajan,Yogyakarta,363.0,265.0,6.0,4.0,2.0,,Lainnya,Furnished,6000000000
+Umbulharjo,Yogyakarta,99.0,122.0,2.0,2.0,2.0,,Lainnya,Unfurnished,1140000000
+Gamping,Sleman,135.0,90.0,3.0,2.0,1.0,,2200 Watt,Furnished,1500000000
+Mlati,Sleman,110.0,146.0,4.0,4.0,2.0,,Lainnya,Unfurnished,1800000000
+Sleman,Yogyakarta,90.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,785000000
+Gamping,Sleman,120.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1800000000
+Depok,Sleman,324.0,279.0,5.0,3.0,2.0,1.0,5500 Watt,Semi Furnished,4000000000
+Prambanan,Sleman,176.0,60.0,3.0,1.0,1.0,,Lainnya,Unfurnished,470000000
+Sleman,Yogyakarta,99.0,57.0,2.0,1.0,1.0,,Lainnya,Unfurnished,622000000
+Gamping,Sleman,120.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1800000000
+Gamping,Sleman,94.0,150.0,4.0,2.0,2.0,,900 Watt,Unfurnished,470000000
+Depok,Sleman,318.0,320.0,4.0,3.0,2.0,,Lainnya,Unfurnished,3000000000
+Sleman,Yogyakarta,128.0,210.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2800000000
+Umbulharjo,Yogyakarta,63.0,74.0,2.0,2.0,2.0,,2200 Watt,Unfurnished,1600000000
+Sidoarum,Yogyakarta,108.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1550000000
+Godean,Sleman,108.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1550000000
+Prambanan,Sleman,72.0,30.0,2.0,1.0,1.0,,Lainnya,Unfurnished,265000000
+Ngemplak,Sleman,242.0,300.0,4.0,3.0,2.0,,Lainnya,Unfurnished,3500000000
+Sleman,Yogyakarta,460.0,230.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,4750000000
+Mlati,Sleman,120.0,118.0,3.0,3.0,2.0,,Lainnya,Furnished,2600000000
+Wonosari,Gunung Kidul,72.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,300000000
+Ngaglik,Sleman,80.0,321.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,2500000000
+Cebongan,Sleman,120.0,118.0,3.0,3.0,2.0,,Lainnya,Furnished,2600000000
+Mlati,Sleman,110.0,75.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1800000000
+Mlati,Sleman,110.0,146.0,4.0,4.0,2.0,,3500 Watt,Unfurnished,1800000000
+Mlati,Sleman,110.0,146.0,4.0,4.0,2.0,,Lainnya,Unfurnished,1800000000
+Tempel,Sleman,192.0,100.0,,,1.0,,Lainnya,Unfurnished,280000000
+Mlati,Sleman,110.0,75.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1800000000
+Sedayu,Bantul,84.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,430000000
+Sleman,Sleman,210.0,190.0,,,1.0,,Lainnya,Unfurnished,380000000
+Wates,Kulon Progo,230.0,125.0,3.0,2.0,1.0,,Lainnya,Unfurnished,600000000
+Sedayu,Bantul,84.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,430000000
+Mlati,Sleman,208.0,100.0,,,2.0,,Lainnya,Unfurnished,860000000
+Cebongan,Sleman,120.0,118.0,3.0,3.0,2.0,,Lainnya,Furnished,2600000000
+Mlati,Sleman,692.0,250.0,5.0,3.0,1.0,,2200 Watt,Unfurnished,1850000000
+Depok,Sleman,70.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,800000000
+Gamping,Sleman,118.0,90.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,1150000000
+Ngaglik,Sleman,359.0,330.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1900000000
+Ngemplak,Sleman,110.0,60.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngemplak,Sleman,110.0,60.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngaglik,Sleman,110.0,60.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngaglik,Sleman,221.0,330.0,16.0,16.0,2.0,,Lainnya,Furnished,4700000000
+Purwomartani,Sleman,180.0,180.0,5.0,4.0,2.0,,Lainnya,,2300000000
+Sleman,Sleman,122.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,665000000
+Maguwoharjo,Yogyakarta,275.0,160.0,4.0,3.0,2.0,,Lainnya,,2000000000
+Ngaglik,Sleman,178.0,145.0,4.0,4.0,2.0,,Lainnya,,1980000000
+Mlati,Sleman,114.0,114.0,2.0,2.0,1.0,,Lainnya,,575000000
+Mlati,Sleman,100.0,50.0,3.0,1.0,1.0,,Lainnya,,600000000
+Ngaglik,Sleman,107.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,989000000
+Gamping,Sleman,125.0,70.0,2.0,1.0,1.0,,Lainnya,,850000000
+Godean,Sleman,102.0,55.0,2.0,1.0,1.0,,Lainnya,,615000000
+Sleman,Sleman,100.0,60.0,2.0,2.0,1.0,,Lainnya,,570000000
+Gamping,Sleman,426.0,200.0,4.0,4.0,2.0,2.0,Lainnya,,2800000000
+Ngemplak,Sleman,116.0,69.0,3.0,1.0,1.0,,Lainnya,,450000000
+Mlati,Sleman,428.0,225.0,5.0,5.0,1.0,1.0,Lainnya,,4800000000
+Godean,Sleman,151.0,160.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1400000000
+Ngaglik,Sleman,125.0,100.0,3.0,2.0,,,2200 Watt,Semi Furnished,885000000
+Ngemplak,Sleman,136.0,150.0,3.0,3.0,2.0,,3300 Watt,Unfurnished,1550000000
+Depok,Sleman,109.0,140.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1650000000
+Sewon,Bantul,82.0,72.0,3.0,2.0,,,1300 Watt,Semi Furnished,900000000
+Godean,Sleman,200.0,150.0,4.0,3.0,1.0,,Lainnya,Unfurnished,1600000000
+Piyungan,Bantul,236.0,236.0,4.0,1.0,,,2200 Watt,,900000000
+Purwomartani,Sleman,107.0,43.0,2.0,1.0,,,Lainnya,Unfurnished,499000000
+Maguwoharjo,Yogyakarta,162.0,140.0,3.0,2.0,2.0,,Lainnya,,1270000000
+Depok,Sleman,135.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,950000000
+Mlati,Sleman,180.0,250.0,4.0,3.0,2.0,1.0,Lainnya,,2800000000
+Mlati,Sleman,174.0,140.0,4.0,3.0,2.0,,Lainnya,Unfurnished,2100000000
+Mlati,Sleman,266.0,261.0,5.0,4.0,2.0,1.0,Lainnya,Unfurnished,3250000000
+Ngaglik,Sleman,276.0,226.0,3.0,4.0,2.0,2.0,3500 Watt,Unfurnished,4000000000
+Ngemplak,Sleman,110.0,103.0,4.0,4.0,2.0,,1300 Watt,Unfurnished,1300000000
+Mlati,Sleman,589.0,551.0,6.0,7.0,2.0,1.0,Lainnya,Semi Furnished,5500000000
+Mlati,Sleman,443.0,550.0,10.0,8.0,2.0,2.0,3500 Watt,Semi Furnished,7100000000
+Pakem,Sleman,472.0,130.0,,,1.0,,Lainnya,Unfurnished,2900000000
+Maguwoharjo,Yogyakarta,203.0,250.0,4.0,3.0,1.0,,Lainnya,,1300000000
+Maguwoharjo,Yogyakarta,355.0,1000.0,26.0,25.0,3.0,,Lainnya,,8500000000
+Caturtunggal,Sleman,111.0,178.0,5.0,3.0,2.0,1.0,Lainnya,,1850000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,,Lainnya,Unfurnished,4200000000
+Ngemplak,Sleman,120.0,75.0,3.0,2.0,1.0,,Lainnya,,825000000
+Ngemplak,Sleman,129.0,129.0,3.0,2.0,1.0,,Lainnya,,795000000
+Ngemplak,Sleman,111.0,80.0,3.0,2.0,1.0,,Lainnya,,775000000
+Ngemplak,Sleman,80.0,36.0,2.0,1.0,1.0,,Lainnya,,535000000
+Banguntapan,Bantul,97.0,52.0,3.0,1.0,1.0,,Lainnya,,775000000
+Ngaglik,Sleman,120.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,825000000
+Ngemplak,Sleman,500.0,200.0,5.0,2.0,1.0,,Lainnya,Unfurnished,2100000000
+Maguwoharjo,Yogyakarta,150.0,160.0,3.0,4.0,2.0,1.0,Lainnya,,1400000000
+Maguwoharjo,Yogyakarta,897.0,897.0,8.0,5.0,2.0,3.0,Lainnya,Unfurnished,8500000000
+Maguwoharjo,Yogyakarta,125.0,156.0,4.0,3.0,2.0,,Lainnya,Unfurnished,1500000000
+Kaliurang,Sleman,1050.0,735.0,7.0,7.0,1.0,2.0,Lainnya,Unfurnished,8500000000
+Ngaglik,Sleman,136.0,180.0,4.0,5.0,2.0,,Lainnya,Unfurnished,2750000000
+Depok,Sleman,105.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1200000000
+Depok,Sleman,300.0,180.0,3.0,2.0,2.0,,Lainnya,Unfurnished,2200000000
+Ngaglik,Sleman,607.0,500.0,6.0,7.0,1.0,,Lainnya,Unfurnished,3700000000
+Depok,Sleman,126.0,126.0,3.0,3.0,2.0,,Lainnya,Furnished,2580000000
+Kalasan,Sleman,75.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,490000000
+Caturtunggal,Sleman,129.0,125.0,3.0,4.0,2.0,,Lainnya,Semi Furnished,1700000000
+Ngaglik,Sleman,158.0,115.0,4.0,4.0,1.0,,Lainnya,Furnished,2200000000
+Ngaglik,Sleman,103.0,80.0,2.0,2.0,1.0,,Lainnya,,875000000
+Depok,Sleman,300.0,320.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,3800000000
+Caturtunggal,Sleman,775.0,500.0,8.0,8.0,1.0,2.0,3500 Watt,Semi Furnished,12980000000
+Maguwoharjo,Yogyakarta,40.0,40.0,1.0,1.0,1.0,,Lainnya,Furnished,365000000
+Kaliurang,Sleman,649.0,300.0,8.0,3.0,2.0,1.0,2200 Watt,Unfurnished,3800000000
+Kaliurang,Sleman,547.0,250.0,3.0,2.0,2.0,2.0,Lainnya,Unfurnished,6500000000
+Kaliurang,Sleman,334.0,250.0,6.0,4.0,2.0,1.0,,Unfurnished,4500000000
+Danurejan,Yogyakarta,1107.0,700.0,5.0,1.0,1.0,,Lainnya,Unfurnished,14000000000
+Banguntapan,Bantul,80.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,799000000
+Ngaglik,Sleman,109.0,70.0,3.0,2.0,1.0,,Lainnya,Furnished,770000000
+Ngaglik,Sleman,90.0,90.0,3.0,1.0,1.0,,Lainnya,,980000000
+Purwomartani,Sleman,104.0,85.0,3.0,2.0,1.0,,Lainnya,,650000000
+Purwomartani,Sleman,194.0,140.0,3.0,2.0,1.0,,2200 Watt,Furnished,1600000000
+Mergangsan,Yogyakarta,4300.0,2600.0,24.0,30.0,2.0,,8000 Watt,Furnished,65000000000
+Mergangsan,Yogyakarta,103.0,54.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,850000000
+Sleman,Sleman,105.0,150.0,4.0,4.0,2.0,1.0,2200 Watt,Unfurnished,1800000000
+Mlati,Sleman,180.0,250.0,4.0,2.0,2.0,,2200 Watt,,3200000000
+Ngaglik,Sleman,636.0,370.0,3.0,3.0,1.0,,4400 Watt,Semi Furnished,4900000000
+Purwomartani,Sleman,159.0,170.0,4.0,3.0,2.0,,3500 Watt,Furnished,2500000000
+Umbulharjo,Yogyakarta,123.0,74.0,4.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1300000000
+Kaliurang,Sleman,2.0,571.0,4.0,6.0,1.0,1.0,5500 Watt,Furnished,20000000000
+Kaliurang,Yogyakarta,105.0,120.0,3.0,3.0,2.0,,2200 Watt,Furnished,1500000000
+Ngampilan,Yogyakarta,793.0,251.0,7.0,3.0,,1.0,Lainnya,Unfurnished,11000000000
+Gondokusuman,Yogyakarta,1140.0,560.0,8.0,4.0,1.0,2.0,Lainnya,Unfurnished,11000000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,1300 Watt,Unfurnished,700000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,1300 Watt,Unfurnished,700000000
+Ngaglik,Sleman,96.0,125.0,3.0,3.0,2.0,,Lainnya,Furnished,1850000000
+Ngemplak,Sleman,160.0,90.0,3.0,2.0,1.0,,Lainnya,Unfurnished,985000000
+Purwomartani,Sleman,101.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,825000000
+Ngaglik,Sleman,160.0,210.0,4.0,3.0,2.0,,Lainnya,Unfurnished,1800000000
+Godean,Sleman,168.0,143.0,3.0,2.0,1.0,,Lainnya,Furnished,7500000000
+Depok,Sleman,120.0,168.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2640000000
+Caturtunggal,Sleman,120.0,130.0,4.0,3.0,2.0,,3500 Watt,Furnished,2150000000
+Wirobrajan,Yogyakarta,271.0,344.0,12.0,3.0,2.0,,4400 Watt,Unfurnished,4900000000
+Ngaglik,Sleman,110.0,63.0,3.0,1.0,1.0,,Lainnya,Unfurnished,850000000
+Ngaglik,Sleman,123.0,145.0,4.0,4.0,2.0,,2200 Watt,Furnished,1850000000
+Depok,Sleman,123.0,70.0,3.0,2.0,1.0,1.0,Lainnya,,870000000
+Ngaglik,Sleman,126.0,110.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1300000000
+Sleman,Sleman,128.0,210.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2800000000
+Caturtunggal,Yogyakarta,120.0,130.0,4.0,3.0,2.0,,3500 Watt,Furnished,2150000000
+Gamping,Sleman,139.0,110.0,3.0,3.0,2.0,,Lainnya,,1300000000
+Gamping,Sleman,139.0,110.0,3.0,3.0,1.0,1.0,Lainnya,Semi Furnished,1300000000
+Depok,Sleman,110.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,900000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,,,2200 Watt,Unfurnished,1300000000
+Purwomartani,Sleman,120.0,120.0,3.0,2.0,1.0,,Lainnya,Unfurnished,670000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,,550000000
+Sleman,Sleman,141.0,153.0,4.0,4.0,2.0,,Lainnya,Unfurnished,3040000000
+Condong Catur,Sleman,1600.0,500.0,6.0,5.0,1.0,5.0,Lainnya,Unfurnished,10000000000
+Sleman,Sleman,126.0,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1000000000
+Wates,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,Furnished,398000000
+Maguwoharjo,Yogyakarta,97.0,121.0,3.0,3.0,2.0,,Lainnya,,1690000000
+Sleman,Yogyakarta,125.0,85.0,3.0,2.0,1.0,,Lainnya,,950000000
+Prambanan,Sleman,73.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,340000000
+Ngemplak,Sleman,165.0,110.0,4.0,3.0,2.0,,Lainnya,,1780000000
+Gamping,Sleman,163.0,88.0,2.0,2.0,2.0,1.0,Lainnya,,1700000000
+Sleman,Yogyakarta,139.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1150000000
+Sleman,Sleman,123.0,130.0,4.0,4.0,2.0,,3500 Watt,Unfurnished,2280000000
+Kalasan,Sleman,67.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,435000000
+Ngaglik,Sleman,225.0,150.0,4.0,3.0,1.0,1.0,Lainnya,,1600000000
+Ngaglik,Sleman,80.0,321.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,2500000000
+Sedayu,Bantul,80.0,48.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Sewon,Bantul,75.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,350000000
+Kasihan,Bantul,90.0,70.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,590000000
+Umbulharjo,Yogyakarta,171.0,150.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,990000000
+Godean,Sleman,103.0,120.0,3.0,4.0,2.0,,Lainnya,Semi Furnished,1600000000
+Sedayu,Bantul,73.0,36.0,2.0,1.0,1.0,,Lainnya,Furnished,400000000
+Depok,Sleman,324.0,279.0,5.0,3.0,2.0,2.0,5500 Watt,Unfurnished,4000000000
+Sedayu,Bantul,73.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Sleman,Sleman,102.0,55.0,2.0,1.0,1.0,,Lainnya,Unfurnished,599000000
+Purwomartani,Sleman,84.0,33.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,350000000
+Ngemplak,Sleman,120.0,80.0,3.0,2.0,1.0,,Lainnya,Unfurnished,820000000
+Purwomartani,Sleman,190.0,116.0,4.0,2.0,1.0,,Lainnya,,725000000
+Kalasan,Sleman,86.0,86.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,795000000
+Condong Catur,Sleman,900.0,300.0,4.0,3.0,1.0,1.0,3300 Watt,Furnished,8000000000
+Godean,Sleman,128.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Maguwoharjo,Yogyakarta,144.0,100.0,3.0,2.0,1.0,,Lainnya,,1150000000
+Ngaglik,Sleman,90.0,70.0,3.0,1.0,1.0,,Lainnya,,785000000
+Ngaglik,Sleman,127.0,71.0,3.0,2.0,1.0,,Lainnya,Unfurnished,895000000
+Ngaglik,Sleman,365.0,400.0,6.0,4.0,2.0,1.0,Lainnya,Unfurnished,4500000000
+Ngaglik,Sleman,94.0,84.0,2.0,1.0,1.0,,Lainnya,,820000000
+Kaliurang,Sleman,120.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,695000000
+Condong Catur,Sleman,90.0,90.0,4.0,2.0,1.0,,Lainnya,,920000000
+Ngaglik,Sleman,158.0,190.0,4.0,3.0,2.0,,Lainnya,,1950000000
+Ngaglik,Sleman,120.0,162.0,4.0,2.0,2.0,,Lainnya,,1760000000
+Ngaglik,Sleman,673.0,350.0,4.0,3.0,1.0,1.0,Lainnya,,1990000000
+Ngaglik,Sleman,119.0,85.0,3.0,2.0,1.0,,Lainnya,,1200000000
+Ngaglik,Sleman,108.0,55.0,3.0,2.0,1.0,,Lainnya,Unfurnished,650000000
+Ngemplak,Sleman,100.0,70.0,3.0,2.0,1.0,,Lainnya,,725000000
+Maguwoharjo,Yogyakarta,860.0,500.0,9.0,10.0,1.0,1.0,4400 Watt,Furnished,5500000000
+Mlati,Sleman,204.0,190.0,4.0,2.0,1.0,,Lainnya,,1150000000
+Depok,Sleman,108.0,110.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1500000000
+Ngaglik,Sleman,353.0,136.0,3.0,2.0,1.0,,Lainnya,Unfurnished,2450000000
+Ngaglik,Sleman,3200.0,1000.0,5.0,5.0,1.0,,Lainnya,Unfurnished,6500000000
+Ngaglik,Sleman,139.0,75.0,3.0,2.0,1.0,,Lainnya,,850000000
+Ngaglik,Sleman,122.0,74.0,3.0,1.0,1.0,,Lainnya,,600000000
+Mlati,Sleman,139.0,153.0,4.0,4.0,2.0,,3500 Watt,Furnished,2800000000
+Ngaglik,Sleman,120.0,80.0,3.0,2.0,1.0,,Lainnya,,750000000
+Ngaglik,Sleman,138.0,153.0,4.0,4.0,2.0,,3500 Watt,Furnished,2900000000
+Gamping,Sleman,168.0,143.0,3.0,2.0,1.0,,2200 Watt,Furnished,6500000000
+Sleman,Sleman,82.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,622000000
+Sleman,Yogyakarta,140.0,153.0,4.0,4.0,2.0,,3500 Watt,Furnished,2990000000
+Ngaglik,Sleman,130.0,153.0,4.0,4.0,2.0,,3500 Watt,Furnished,2800000000
+Ngaglik,Sleman,111.0,75.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,775000000
+Mlati,Sleman,171.0,160.0,3.0,3.0,2.0,,2200 Watt,Furnished,1950000000
+Depok,Sleman,244.0,170.0,7.0,3.0,2.0,2.0,Lainnya,Unfurnished,2500000000
+Gamping,Sleman,107.0,75.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,950000000
+Sleman,Yogyakarta,111.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,589000000
+Mlati,Sleman,168.0,110.0,2.0,2.0,1.0,,Lainnya,Unfurnished,1400000000
+Mlati,Sleman,196.0,120.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1800000000
+Sedayu,Bantul,84.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,430000000
+Ngaglik,Sleman,200.0,180.0,3.0,3.0,2.0,,Lainnya,Unfurnished,4400000000
+Kasihan,Bantul,238.0,124.0,3.0,2.0,1.0,5.0,Lainnya,Unfurnished,695000000
+Tegalrejo,Yogyakarta,316.0,375.0,5.0,5.0,2.0,2.0,Lainnya,Furnished,7500000000
+Sedayu,Bantul,84.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,430000000
+Kalasan,Sleman,91.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,390000000
+Banguntapan,Bantul,74.0,48.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,520000000
+Caturtunggal,Sleman,100.0,70.0,3.0,1.0,1.0,1.0,1300 Watt,Unfurnished,700000000
+Bantul,Bantul,92.0,48.0,3.0,1.0,1.0,1.0,1300 Watt,Unfurnished,541800000
+Condong Catur,Sleman,97.0,93.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,1500000000
+Sleman,Sleman,94.0,94.0,2.0,1.0,1.0,,Lainnya,Semi Furnished,550000000
+Kasihan,Bantul,96.0,48.0,2.0,1.0,1.0,,Lainnya,Unfurnished,650000000
+Sleman,Sleman,107.0,80.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,697000000
+Godean,Sleman,114.0,165.0,,,2.0,,Lainnya,Unfurnished,520000000
+Sleman,Sleman,775.0,575.0,10.0,9.0,1.0,1.0,Lainnya,,12980000000
+Depok,Sleman,134.0,90.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1100000000
+Maguwoharjo,Yogyakarta,190.0,192.0,7.0,4.0,2.0,3.0,11000 Watt,,2800000000
+Godean,Sleman,113.0,110.0,3.0,3.0,2.0,,3500 Watt,Furnished,1600000000
+Mlati,Sleman,70.0,99.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,675000000
+Godean,Sleman,118.0,114.0,3.0,3.0,2.0,,2200 Watt,Furnished,1550000000
+Depok,Sleman,125.0,110.0,3.0,3.0,2.0,,2200 Watt,Furnished,1550000000
+Godean,Sleman,120.0,103.0,3.0,4.0,2.0,,Lainnya,Furnished,1600000000
+Kraton,Yogyakarta,851.0,830.0,8.0,5.0,2.0,2.0,Lainnya,Unfurnished,14000000000
+Wonosari,Gunung Kidul,72.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,350000000
+Sedayu,Bantul,73.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Condong Catur,Sleman,101.0,70.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,825000000
+Sleman,Sleman,133.0,100.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,575000000
+Berbah,Sleman,72.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,325000000
+Umbulharjo,Yogyakarta,110.0,108.0,2.0,2.0,,,1300 Watt,Semi Furnished,650000000
+Umbulharjo,Yogyakarta,171.0,150.0,3.0,1.0,1.0,,Lainnya,Unfurnished,990000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,,,2200 Watt,Semi Furnished,4250000000
+Ngemplak,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Ngaglik,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Ngemplak,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Banguntapan,Bantul,99.0,105.0,4.0,3.0,2.0,1.0,2200 Watt,,1295000000
+Kalasan,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Banguntapan,Bantul,150.0,390.0,11.0,3.0,3.0,1.0,Lainnya,Unfurnished,3300000000
+Banguntapan,Bantul,240.0,170.0,3.0,2.0,,1.0,900 Watt,,2290000000
+Mlati,Sleman,239.0,325.0,6.0,4.0,2.0,,2200 Watt,Unfurnished,3490000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Sedayu,Bantul,200.0,180.0,3.0,2.0,1.0,,Lainnya,Unfurnished,600000000
+Maguwoharjo,Yogyakarta,96.0,110.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1550000000
+Kaliurang,Yogyakarta,248.0,496.0,9.0,9.0,3.0,2.0,Lainnya,,4200000000
+Gamping,Sleman,108.0,47.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,612500000
+Wirobrajan,Yogyakarta,363.0,265.0,6.0,4.0,2.0,,Lainnya,Furnished,6000000000
+Kasihan,Bantul,121.0,150.0,7.0,7.0,2.0,1.0,Lainnya,Furnished,1700000000
+Sleman,Sleman,82.0,57.0,2.0,1.0,1.0,,Lainnya,Unfurnished,622000000
+Maguwoharjo,Yogyakarta,495.0,300.0,7.0,5.0,1.0,,Lainnya,Unfurnished,5900000000
+Mlati,Sleman,110.0,146.0,4.0,4.0,2.0,,Lainnya,Unfurnished,1800000000
+Sleman,Sleman,128.0,210.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2800000000
+Sleman,Sleman,126.0,90.0,3.0,3.0,2.0,1.0,13200 Watt,Unfurnished,900000000
+Sleman,Sleman,117.0,110.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1500000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,,457000000
+Pakem,Sleman,1000.0,600.0,8.0,9.0,1.0,2.0,Lainnya,Furnished,6900000000
+Sleman,Yogyakarta,,90.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1500000000
+Depok,Sleman,495.0,300.0,7.0,5.0,1.0,,Lainnya,Unfurnished,5900000000
+Mlati,Sleman,98.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,785000000
+Banguntapan,Bantul,189.0,300.0,8.0,5.0,2.0,1.0,Lainnya,Unfurnished,1850000000
+Ngemplak,Sleman,120.0,138.0,4.0,3.0,2.0,1.0,Lainnya,Furnished,2150000000
+Umbulharjo,Yogyakarta,420.0,200.0,4.0,3.0,1.0,,3500 Watt,,4900000000
+Ngaglik,Sleman,123.0,130.0,4.0,4.0,2.0,1.0,Lainnya,Furnished,2470000000
+Sleman,Yogyakarta,90.0,55.0,3.0,2.0,1.0,,Lainnya,Unfurnished,785000000
+Ngaglik,Sleman,174.0,150.0,2.0,2.0,1.0,,Lainnya,Unfurnished,1450000000
+Sleman,Sleman,125.0,65.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,650000000
+Depok,Sleman,318.0,320.0,4.0,3.0,2.0,,Lainnya,Semi Furnished,3000000000
+Gondokusuman,Yogyakarta,69.0,100.0,7.0,3.0,2.0,,Lainnya,Unfurnished,520000000
+Ngemplak,Sleman,318.0,320.0,5.0,4.0,2.0,,Lainnya,Semi Furnished,3500000000
+Depok,Sleman,166.0,176.0,4.0,3.0,1.0,,Lainnya,Unfurnished,1500000000
+Sleman,Sleman,153.0,140.0,3.0,1.0,1.0,,Lainnya,Unfurnished,1300000000
+Wonosari,Gunung Kidul,72.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,300000000
+Wates,Kulon Progo,230.0,125.0,3.0,1.0,1.0,,Lainnya,Unfurnished,600000000000
+Kasihan,Bantul,100.0,300.0,3.0,2.0,,,Lainnya,,1900000
+Purwomartani,Sleman,115.0,75.0,3.0,2.0,1.0,,Lainnya,Unfurnished,790000000
+Cebongan,Sleman,120.0,118.0,3.0,3.0,2.0,,Lainnya,Furnished,2600000000
+Sleman,Sleman,126.0,110.0,3.0,3.0,1.0,,2200 Watt,Unfurnished,1320000000
+Depok,Sleman,282.0,400.0,16.0,6.0,2.0,1.0,Lainnya,Unfurnished,3250000000
+Gamping,Sleman,90.0,75.0,2.0,2.0,2.0,,Lainnya,Unfurnished,1850000000
+Mlati,Sleman,124.0,127.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2450000000
+Gamping,Sleman,104.0,90.0,3.0,3.0,2.0,,900 Watt,Unfurnished,650000000
+Wates,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,398000000
+Condong Catur,Sleman,346.0,176.0,7.0,4.0,1.0,,2200 Watt,Unfurnished,2900000000
+Kasihan,Bantul,71.0,80.0,2.0,2.0,1.0,,1300 Watt,Unfurnished,470000000
+Ngaglik,Sleman,176.0,256.0,4.0,4.0,2.0,1.0,Lainnya,Unfurnished,2100000000
+Sleman,Sleman,119.0,180.0,4.0,3.0,2.0,,2200 Watt,,1800000000
+Depok,Sleman,166.0,176.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,1480000000
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,Lainnya,Unfurnished,950000000
+Depok,Sleman,117.0,100.0,3.0,3.0,2.0,1.0,Lainnya,Furnished,2100000000
+Depok,Sleman,495.0,300.0,6.0,4.0,1.0,1.0,Lainnya,Unfurnished,5900000000
+Ngaglik,Sleman,151.0,141.0,3.0,4.0,2.0,,Lainnya,Unfurnished,2300000000
+Ngaglik,Sleman,126.0,115.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,1950000000
+Ngaglik,Sleman,710.0,200.0,5.0,3.0,1.0,2.0,Lainnya,Unfurnished,2400000000
+Ngaglik,Sleman,221.0,231.0,4.0,4.0,2.0,1.0,5500 Watt,Unfurnished,4250000000
+Sleman,Sleman,119.0,180.0,4.0,3.0,2.0,,2200 Watt,,1800000000
+Sleman,Sleman,172.0,125.0,3.0,2.0,,,2200 Watt,,1730000000
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,Lainnya,Unfurnished,950000000
+Sewon,Bantul,120.0,100.0,3.0,1.0,1.0,,Lainnya,Unfurnished,750000000
+Banguntapan,Bantul,245.0,200.0,3.0,3.0,1.0,1.0,2200 Watt,Unfurnished,1650000000
+Sewon,Bantul,254.0,200.0,6.0,6.0,1.0,,Lainnya,Unfurnished,1500000000
+Sleman,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Mlati,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Sleman,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Mlati,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Kalasan,Sleman,702.0,500.0,7.0,5.0,2.0,1.0,2200 Watt,Furnished,4500000000
+Kalasan,Sleman,227.0,122.0,3.0,2.0,1.0,,3500 Watt,Unfurnished,1400000000
+Depok,Sleman,123.0,130.0,4.0,4.0,2.0,,3500 Watt,Unfurnished,2280000000
+Gamping,Sleman,126.0,120.0,4.0,3.0,1.0,,Lainnya,Unfurnished,1980000000
+Gamping,Sleman,80.0,45.0,2.0,,1.0,,Lainnya,Unfurnished,395000000
+Depok,Sleman,150.0,170.0,4.0,2.0,1.0,1.0,4400 Watt,Unfurnished,1600000000
+Depok,Sleman,137.0,207.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,3250000000
+Mlati,Sleman,122.0,150.0,3.0,2.0,2.0,1.0,1300 Watt,Unfurnished,1500000000
+Mlati,Sleman,170.0,150.0,4.0,2.0,1.0,,1300 Watt,Unfurnished,1300000000
+Banguntapan,Bantul,376.0,200.0,3.0,2.0,1.0,,11000 Watt,Unfurnished,1400000000
+Depok,Sleman,100.0,91.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,850000000
+Godean,Sleman,124.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,600000000
+Banguntapan,Bantul,120.0,91.0,5.0,1.0,1.0,,Lainnya,Unfurnished,600000000
+Umbulharjo,Yogyakarta,99.0,158.0,3.0,2.0,1.0,,2200 Watt,Furnished,1950000000
+Kalasan,Sleman,433.0,175.0,5.0,2.0,1.0,,1300 Watt,,1500000000
+Ngemplak,Sleman,753.0,220.0,4.0,4.0,1.0,2.0,3500 Watt,Unfurnished,2750000000
+Purwomartani,Sleman,200.0,120.0,3.0,2.0,1.0,2.0,Lainnya,Furnished,1850000000
+Kasihan,Bantul,127.0,113.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Kaliurang,Sleman,337.0,140.0,2.0,2.0,1.0,1.0,2200 Watt,Unfurnished,1200000000
+Tegalrejo,Yogyakarta,435.0,200.0,4.0,2.0,1.0,,Lainnya,Unfurnished,7610000000
+Purwomartani,Sleman,194.0,140.0,3.0,2.0,1.0,,Lainnya,,1600000000
+Umbulharjo,Yogyakarta,90.0,180.0,5.0,5.0,1.0,1.0,3500 Watt,Furnished,1450000000
+Depok,Sleman,275.0,275.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,3900000000
+Ngaglik,Sleman,120.0,90.0,2.0,1.0,1.0,,Lainnya,Unfurnished,650000000
+Purwomartani,Yogyakarta,115.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,790000000
+Bantul,Yogyakarta,72.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,295000000
+Mlati,Sleman,701.0,245.0,4.0,4.0,1.0,,Lainnya,Unfurnished,2900000000
+Depok,Sleman,491.0,210.0,7.0,6.0,1.0,1.0,Lainnya,,5600000000
+Ngemplak,Sleman,190.0,300.0,6.0,4.0,3.0,4.0,Lainnya,Unfurnished,980000000
+Kalasan,Sleman,1043.0,363.0,5.0,6.0,2.0,1.0,2200 Watt,Unfurnished,6500000000
+Kalasan,Sleman,131.0,56.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,1200000000
+Ngaglik,Sleman,200.0,180.0,3.0,2.0,2.0,1.0,2200 Watt,Semi Furnished,1050000000
+Depok,Sleman,455.0,1200.0,32.0,32.0,4.0,8.0,2200 Watt,Furnished,15000000000
+Depok,Sleman,209.0,212.0,6.0,3.0,2.0,1.0,Lainnya,Unfurnished,4800000000
+Mergangsan,Yogyakarta,100.0,110.0,3.0,3.0,2.0,,Lainnya,,1250000000
+Berbah,Sleman,99.0,41.0,2.0,1.0,1.0,,Lainnya,Unfurnished,529000000
+Kalasan,Sleman,150.0,210.0,4.0,4.0,2.0,,2200 Watt,Furnished,1750000000
+Banguntapan,Bantul,120.0,160.0,4.0,3.0,2.0,,3500 Watt,Unfurnished,1100000000
+Ngaglik,Sleman,162.0,162.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Purwomartani,Yogyakarta,125.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,950000000
+Purwomartani,Yogyakarta,194.0,140.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1600000000
+Gamping,Sleman,168.0,214.0,4.0,4.0,2.0,,5500 Watt,Unfurnished,2300000000
+Maguwoharjo,Yogyakarta,99.0,66.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Gondokusuman,Yogyakarta,448.0,350.0,15.0,5.0,2.0,,2200 Watt,Unfurnished,4500000000
+Wirobrajan,Yogyakarta,103.0,120.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1650000000
+Sedayu,Bantul,74.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,670000000
+Kalasan,Sleman,107.0,70.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,590000000
+Kalasan,Sleman,136.0,179.0,3.0,2.0,2.0,,2200 Watt,,2500000000
+Mlati,Sleman,103.0,110.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,1390000000
+Seyegan,Sleman,102.0,55.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,595000000
+Ngaglik,Sleman,70.0,57.0,2.0,1.0,1.0,,2200 Watt,Furnished,739000000
+Ngemplak,Sleman,130.0,130.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1550000000
+Kotagede,Yogyakarta,410.0,400.0,5.0,5.0,1.0,,1300 Watt,Unfurnished,2750000000
+Ngaglik,Sleman,139.0,175.0,4.0,4.0,2.0,,2200 Watt,Unfurnished,1900000000
+Sleman,Sleman,110.0,110.0,5.0,2.0,2.0,,1300 Watt,Unfurnished,790000000
+Ngemplak,Sleman,130.0,60.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,800000000
+Ngaglik,Sleman,226.0,250.0,4.0,3.0,,,1300 Watt,,3500000000
+Banguntapan,Bantul,111.0,178.0,4.0,2.0,2.0,,4400 Watt,Furnished,1850000000
+Depok,Sleman,560.0,150.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,2500000000
+Kalasan,Sleman,172.0,125.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1730000000
+Gamping,Sleman,104.0,90.0,3.0,,2.0,,900 Watt,Unfurnished,650000000
+Ngaglik,Sleman,710.0,200.0,5.0,3.0,1.0,1.0,900 Watt,Unfurnished,2400000000
+Depok,Sleman,305.0,250.0,12.0,3.0,1.0,,1300 Watt,Unfurnished,3700000000
+Gamping,Sleman,135.0,115.0,2.0,2.0,2.0,,4400 Watt,Unfurnished,1800000000
+Ngaglik,Sleman,176.0,256.0,4.0,4.0,1.0,,2200 Watt,Unfurnished,2100000000
+Gamping,Sleman,197.0,196.0,4.0,4.0,1.0,,5500 Watt,Semi Furnished,3900000000
+Sleman,Yogyakarta,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,625000000
+Depok,Sleman,144.0,200.0,4.0,4.0,2.0,,2200 Watt,,1750000000
+Depok,Sleman,85.0,60.0,2.0,1.0,1.0,,2200 Watt,Semi Furnished,625000000
+Pajangan,Bantul,96.0,60.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,450000000
+Kalasan,Sleman,702.0,500.0,7.0,5.0,2.0,1.0,2200 Watt,Furnished,4500000000
+Depok,Sleman,150.0,140.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1250000000
+Depok,Sleman,117.0,100.0,3.0,3.0,2.0,1.0,2200 Watt,Furnished,2100000000
+Ngaglik,Sleman,144.0,126.0,3.0,2.0,1.0,,3500 Watt,Unfurnished,1740000000
+Depok,Sleman,100.0,91.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,850000000
+Depok,Sleman,491.0,350.0,8.0,6.0,1.0,,2200 Watt,Unfurnished,5500000000
+Mlati,Sleman,780.0,850.0,6.0,8.0,2.0,1.0,4400 Watt,Unfurnished,17500000000
+Kalasan,Sleman,296.0,288.0,6.0,4.0,2.0,,4400 Watt,Furnished,4000000000
+Banguntapan,Bantul,61.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,485000000
+Kalasan,Sleman,160.0,160.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1250000000
+Depok,Sleman,456.0,450.0,4.0,4.0,2.0,,2200 Watt,Unfurnished,6500000000
+Ngaglik,Sleman,126.0,115.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1950000000
+Mlati,Sleman,225.0,300.0,7.0,4.0,1.0,,3500 Watt,Unfurnished,3100000000
+Gondokusuman,Yogyakarta,298.0,100.0,4.0,2.0,1.0,,Lainnya,Unfurnished,2500000000
+Umbulharjo,Yogyakarta,164.0,146.0,3.0,2.0,2.0,,Lainnya,Unfurnished,750000000
+Ngemplak,Sleman,199.0,150.0,7.0,7.0,1.0,,1300 Watt,Unfurnished,2200000000
+Tegalrejo,Yogyakarta,94.0,135.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,2100000000
+Ngaglik,Sleman,221.0,231.0,4.0,4.0,2.0,,5500 Watt,Unfurnished,4250000000
+Mlati,Sleman,124.0,127.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2450000000
+Depok,Sleman,365.0,390.0,7.0,4.0,1.0,1.0,5500 Watt,Unfurnished,4500000000
+Depok,Sleman,432.0,500.0,12.0,5.0,2.0,,2200 Watt,Unfurnished,4800000000
+Depok,Sleman,518.0,350.0,6.0,6.0,1.0,1.0,11000 Watt,Unfurnished,4900000000
+Ngaglik,Sleman,152.0,150.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,2900000000
+Mlati,Sleman,780.0,850.0,6.0,8.0,2.0,,4400 Watt,Unfurnished,17500000000
+Sidoarum,Yogyakarta,108.0,109.0,3.0,3.0,2.0,,2200 Watt,Semi Furnished,1550000000
+Sleman,Sleman,398.0,300.0,7.0,5.0,2.0,1.0,2200 Watt,Furnished,6500000000
+Depok,Sleman,314.0,250.0,4.0,3.0,1.0,1.0,1300 Watt,Unfurnished,4980000000
+Kalasan,Sleman,136.0,179.0,3.0,2.0,2.0,,2200 Watt,Furnished,2500000000
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,950000000
+Ngaglik,Sleman,262.0,155.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1200000000
+Depok,Sleman,117.0,100.0,3.0,3.0,1.0,1.0,2200 Watt,Furnished,2100000000
+Ngaglik,Sleman,96.0,100.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,950000000
+Purwomartani,Sleman,194.0,140.0,3.0,2.0,1.0,,2200 Watt,Furnished,1600000000
+Prambanan,Sleman,70.0,36.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,299000000
+Godean,Sleman,103.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,750000000
+Ngemplak,Sleman,111.0,75.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,775000000
+Sleman,Sleman,82.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,622000000
+Seturan,Yogyakarta,136.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1450000000
+Purwomartani,Sleman,101.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Bantul,Bantul,94.0,46.0,2.0,1.0,1.0,2.0,1300 Watt,Unfurnished,588000000
+Sleman,Sleman,102.0,55.0,2.0,1.0,,,Lainnya,Unfurnished,599000000
+Purwomartani,Sleman,90.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Sleman,Sleman,128.0,210.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2800000000
+Prambanan,Sleman,60.0,33.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,225000000
+Mlati,Sleman,191.0,120.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2100000000
+Mlati,Sleman,104.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1410000000
+Berbah,Sleman,78.0,75.0,3.0,2.0,2.0,,Lainnya,Unfurnished,819000000
+Prambanan,Sleman,60.0,33.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,225000000
+Ngaglik,Sleman,90.0,180.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,990000000
+Ngaglik,Sleman,70.0,57.0,2.0,1.0,1.0,,Lainnya,Furnished,745000000
+Purwomartani,Sleman,170.0,120.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1380000000
+Mlati,Sleman,178.0,146.0,3.0,3.0,2.0,,3300 Watt,Unfurnished,2800000000
+Ngaglik,Sleman,96.0,55.0,3.0,1.0,1.0,,Lainnya,Unfurnished,579000000
+Purwomartani,Sleman,203.0,120.0,3.0,2.0,1.0,,Lainnya,Furnished,1740000000
+Kasihan,Bantul,125.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,279000000
+Ngemplak,Sleman,105.0,100.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1100000000
+Ngemplak,Sleman,105.0,100.0,3.0,3.0,1.0,,Lainnya,Unfurnished,1100000000
+Ngaglik,Sleman,96.0,55.0,3.0,1.0,1.0,,Lainnya,Unfurnished,579000000
+Purwomartani,Sleman,147.0,134.0,4.0,4.0,2.0,,1300 Watt,Unfurnished,1610000000
+Ngaglik,Sleman,94.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,859000000
+Sedayu,Bantul,90.0,36.0,2.0,1.0,1.0,,Lainnya,Unfurnished,299000000
+Ngaglik,Sleman,94.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,859000000
+Pajangan,Bantul,90.0,50.0,2.0,1.0,1.0,1.0,1300 Watt,Semi Furnished,370000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,690000000
+Sedayu,Bantul,74.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,299000000
+Ngaglik,Sleman,101.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,925000000
+Maguwoharjo,Yogyakarta,174.0,132.0,4.0,4.0,2.0,,Lainnya,Furnished,1600000000
+Purwomartani,Sleman,170.0,120.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1380000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,690000000
+Ngemplak,Sleman,122.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,870000000
+Ngaglik,Sleman,101.0,70.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,925000000
+Purwomartani,Sleman,108.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,950000000
+Sewon,Bantul,81.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,765000000
+Ngemplak,Sleman,165.0,110.0,4.0,3.0,2.0,,2200 Watt,Furnished,1780000000
+Ngaglik,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Ngemplak,Sleman,165.0,100.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,725000000
+Purwomartani,Sleman,101.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Mlati,Sleman,82.0,47.0,2.0,1.0,1.0,,Lainnya,Unfurnished,622500000
+Sewon,Bantul,81.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,765000000
+Sleman,Sleman,74.0,36.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,450000000
+Kalasan,Sleman,100.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,600000000
+Maguwoharjo,Yogyakarta,98.0,110.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1420000000
+Banguntapan,Bantul,78.0,50.0,2.0,1.0,1.0,,Lainnya,Furnished,799000000000
+Maguwoharjo,Yogyakarta,110.0,125.0,3.0,3.0,2.0,,Lainnya,Furnished,1750000000
+Berbah,Sleman,126.0,60.0,2.0,2.0,1.0,,Lainnya,Furnished,850000000
+Ngemplak,Sleman,82.0,55.0,2.0,1.0,1.0,,Lainnya,Unfurnished,690000000000
+Kalasan,Sleman,150.0,50.0,2.0,1.0,1.0,,Lainnya,,626000000
+Ngemplak,Sleman,102.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngemplak,Sleman,160.0,90.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,985000000
+Godean,Sleman,103.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,750000000
+Ngemplak,Sleman,116.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,450000000
+Sedayu,Bantul,82.0,48.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,309000000
+Purwomartani,Yogyakarta,149.0,100.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1550000000
+Ngaglik,Sleman,145.0,111.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1370000000
+Banguntapan,Bantul,92.0,150.0,3.0,4.0,2.0,,Lainnya,Furnished,1750000000
+Purwomartani,Yogyakarta,101.0,65.0,3.0,2.0,1.0,,Lainnya,Unfurnished,825000000
+Purwomartani,Yogyakarta,194.0,140.0,3.0,2.0,1.0,,Lainnya,Furnished,1600000000
+Purwomartani,Yogyakarta,90.0,60.0,3.0,2.0,1.0,,Lainnya,Unfurnished,725000000
+Ngemplak,Sleman,119.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1200000000
+Purwomartani,Sleman,65.0,120.0,3.0,3.0,2.0,,1300 Watt,Unfurnished,855000000
+Purwomartani,Yogyakarta,114.0,160.0,4.0,3.0,2.0,,Lainnya,Semi Furnished,1600000000
+Seyegan,Sleman,100.0,60.0,2.0,1.0,1.0,,Lainnya,,575000000
+Berbah,Sleman,85.0,46.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,604000000
+Ngaglik,Sleman,125.0,100.0,3.0,2.0,,,2200 Watt,Semi Furnished,885000000
+Ngemplak,Sleman,136.0,150.0,3.0,3.0,2.0,,3300 Watt,Unfurnished,1550000000
+Banguntapan,Bantul,71.0,48.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,520000000
+Mlati,Sleman,128.0,228.0,4.0,5.0,2.0,,4400 Watt,Furnished,3000000000
+Prambanan,Sleman,236.0,150.0,3.0,2.0,1.0,,Lainnya,Unfurnished,850000000
+Mlati,Sleman,82.0,47.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,623000000
+Condong Catur,Sleman,70.0,57.0,2.0,1.0,1.0,1.0,2200 Watt,Furnished,739000000
+Sleman,Sleman,112.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,495000000
+Kalasan,Sleman,91.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,730000000
+Godean,Sleman,90.0,100.0,3.0,3.0,1.0,,2200 Watt,Unfurnished,780000000
+Kalasan,Sleman,101.0,70.0,3.0,2.0,1.0,1.0,1300 Watt,Unfurnished,825000000
+Ngaglik,Sleman,84.0,33.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,350000000
+Mantrijeron,Yogyakarta,425.0,150.0,3.0,3.0,1.0,,1300 Watt,Unfurnished,4250000000
+Sewon,Bantul,126.0,75.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,585000000
+Godean,Sleman,180.0,148.0,5.0,4.0,2.0,,2200 Watt,Unfurnished,1600000000
+Godean,Sleman,100.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,920000000
+Gamping,Sleman,90.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,399000000
+Caturtunggal,Sleman,129.0,80.0,3.0,2.0,,1.0,1300 Watt,Unfurnished,800000000
+Sleman,Yogyakarta,1020.0,350.0,5.0,3.0,1.0,,3500 Watt,Unfurnished,5900000000
+Umbulharjo,Yogyakarta,187.0,207.0,8.0,8.0,2.0,,Lainnya,Unfurnished,2900000000
+Sleman,Sleman,495.0,300.0,6.0,4.0,1.0,1.0,3500 Watt,Unfurnished,5900000000
+Kalasan,Sleman,84.0,160.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,899000000
+Tegalrejo,Yogyakarta,100.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,680000000
+Caturtunggal,Sleman,90.0,90.0,4.0,2.0,2.0,1.0,2200 Watt,Unfurnished,920000000
+Seyegan,Sleman,224.0,200.0,6.0,4.0,1.0,,2200 Watt,Furnished,1400000000
+Mlati,Sleman,95.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1220000000
+Ngaglik,Sleman,94.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,859000000
+Condong Catur,Sleman,95.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1220000000
+Gamping,Sleman,90.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,399000000
+Sleman,Yogyakarta,95.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1220000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,690000000
+Seyegan,Sleman,101.0,50.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,599000000
+Depok,Sleman,95.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1230000000
+Ngaglik,Sleman,151.0,45.0,2.0,2.0,1.0,1.0,3300 Watt,Furnished,400000000
+Sewon,Bantul,126.0,75.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,585000000
+Sewon,Bantul,81.0,65.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,765000000
+Kalasan,Sleman,194.0,140.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1600000000
+Ngaglik,Sleman,96.0,125.0,3.0,3.0,2.0,,Lainnya,Furnished,1850000000
+Kaliurang,Sleman,1018.0,700.0,5.0,4.0,1.0,2.0,Lainnya,Unfurnished,15000000000
+Kalasan,Sleman,91.0,60.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,730000000
+Ngemplak,Sleman,129.0,80.0,3.0,2.0,1.0,,Lainnya,,800000000
+Ngaglik,Sleman,125.0,160.0,4.0,3.0,2.0,,Lainnya,Unfurnished,2490000000
+Banguntapan,Bantul,330.0,400.0,9.0,9.0,1.0,,3500 Watt,Furnished,3900000000
+Purwomartani,Sleman,196.0,265.0,4.0,3.0,2.0,,2200 Watt,Furnished,3100000
+Berbah,Sleman,90.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,725000000
+Ngemplak,Sleman,136.0,137.0,3.0,3.0,2.0,,Lainnya,Unfurnished,950000000
+Sleman,Yogyakarta,124.0,127.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2450000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Umbulharjo,Yogyakarta,161.0,171.0,,,1.0,,Lainnya,Unfurnished,1100000000
+Caturtunggal,Yogyakarta,102.0,180.0,3.0,3.0,2.0,,3500 Watt,Semi Furnished,2150000000
+Ngemplak,Sleman,150.0,135.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,1300000000
+Caturtunggal,Sleman,123.0,130.0,4.0,4.0,2.0,,3500 Watt,Unfurnished,2280000000
+Bantul,Bantul,91.0,54.0,2.0,1.0,1.0,,Lainnya,Unfurnished,450000000
+Ngaglik,Sleman,221.0,231.0,4.0,4.0,2.0,1.0,5500 Watt,Unfurnished,4250000000
+Sleman,Sleman,172.0,125.0,3.0,2.0,1.0,,2200 Watt,,1730000000
+Depok,Sleman,152.0,150.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2900000000
+Maguwoharjo,Yogyakarta,406.0,175.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,2600000000
+Mlati,Sleman,224.0,350.0,4.0,4.0,1.0,1.0,Lainnya,Unfurnished,4900000000
+Mlati,Sleman,425.0,150.0,3.0,3.0,1.0,,1300 Watt,Unfurnished,4250000000
+Ngaglik,Sleman,200.0,300.0,4.0,4.0,2.0,,3500 Watt,,3200000000
+Gedong Tengen,Yogyakarta,385.0,1.0,,,1.0,,Lainnya,Unfurnished,4500000000
+Ngaglik,Sleman,100.0,220.0,1.0,7.0,2.0,1.0,1300 Watt,,1200000000
+Banguntapan,Bantul,92.0,147.0,3.0,4.0,2.0,1.0,Lainnya,Furnished,1750000000
+Umbulharjo,Yogyakarta,85.0,80.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Sewon,Bantul,240.0,240.0,3.0,3.0,1.0,1.0,1300 Watt,Unfurnished,1100000000
+Depok,Sleman,495.0,300.0,6.0,4.0,1.0,1.0,2200 Watt,Unfurnished,5900000000
+Sleman,Yogyakarta,406.0,175.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,2600000000
+Mlati,Sleman,707.0,505.0,16.0,6.0,2.0,,Lainnya,Unfurnished,5500000000
+Sewon,Bantul,213.0,170.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Depok,Sleman,406.0,175.0,3.0,2.0,1.0,,1300 Watt,Semi Furnished,2600000000
+Ngaglik,Sleman,152.0,150.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2900000000
+Bantul,Bantul,91.0,54.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngemplak,Sleman,108.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1550000000
+Ngemplak,Sleman,152.0,181.0,4.0,4.0,2.0,2.0,Lainnya,Unfurnished,1850000000
+Sedayu,Bantul,82.0,48.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,329000000
+Ngemplak,Sleman,150.0,135.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,1300000000
+Ngemplak,Sleman,119.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1200000000
+Kalasan,Sleman,63.0,120.0,3.0,2.0,2.0,1.0,Lainnya,Unfurnished,855000000
+Kalasan,Sleman,70.0,45.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,499000000
+Kalasan,Sleman,194.0,140.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,1600000000
+Ngemplak,Sleman,125.0,80.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,825000000
+Banguntapan,Bantul,376.0,200.0,3.0,2.0,1.0,,Lainnya,Unfurnished,1400000000
+Godean,Sleman,103.0,130.0,3.0,3.0,2.0,,Lainnya,Furnished,1600000000
+Gamping,Sleman,1218.0,300.0,5.0,3.0,2.0,,3500 Watt,Unfurnished,5950000000
+Mantrijeron,Yogyakarta,88.0,97.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,2590000000
+Kalasan,Sleman,107.0,43.0,2.0,1.0,1.0,,Lainnya,Unfurnished,499000000
+Ngaglik,Sleman,221.0,231.0,4.0,4.0,2.0,1.0,5500 Watt,Unfurnished,4250000000
+Mlati,Sleman,124.0,127.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,2450000000
+Umbulharjo,Yogyakarta,180.0,126.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,1750000000
+Maguwoharjo,Yogyakarta,324.0,570.0,4.0,2.0,2.0,2.0,5500 Watt,Unfurnished,5000000000
+Ngaglik,Sleman,100.0,100.0,4.0,2.0,1.0,1.0,3300 Watt,Unfurnished,900000000
+Sleman,Sleman,96.0,110.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1420000000
+Bantul,Bantul,168.0,198.0,4.0,4.0,,,Lainnya,,1637000000
+Condong Catur,Sleman,488.0,321.0,6.0,5.0,2.0,2.0,3300 Watt,Unfurnished,3600000000
+Kalasan,Sleman,291.0,252.0,4.0,4.0,2.0,1.0,Lainnya,Unfurnished,4900000000
+Berbah,Sleman,88.0,90.0,3.0,2.0,2.0,2.0,Lainnya,Furnished,725000000
+Purwomartani,Sleman,108.0,68.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,900000000
+Condong Catur,Sleman,68.0,94.0,3.0,3.0,2.0,,2200 Watt,Semi Furnished,2500000000
+Kalasan,Sleman,103.0,80.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,550000000
+Banguntapan,Bantul,72.0,50.0,3.0,1.0,1.0,1.0,Lainnya,Furnished,399000000
+Ngaglik,Sleman,109.0,58.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,950000000
+Sleman,Sleman,100.0,70.0,3.0,2.0,1.0,1.0,1300 Watt,Furnished,740000000
+Sleman,Yogyakarta,104.0,125.0,3.0,2.0,2.0,2.0,2200 Watt,Furnished,1550000000
+Banguntapan,Bantul,72.0,50.0,2.0,2.0,1.0,1.0,Lainnya,Semi Furnished,550000000
+Kasihan,Bantul,100.0,80.0,3.0,2.0,2.0,,4400 Watt,,1700000000
+Danurejan,Yogyakarta,234.0,300.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,5500000000
+Mlati,Sleman,137.0,112.0,4.0,4.0,2.0,,2200 Watt,Unfurnished,1500000000
+Mlati,Sleman,100.0,75.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,990000000
+Mlati,Sleman,100.0,75.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,990000000
+Gamping,Sleman,71.0,36.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,299000000
+Depok,Sleman,126.0,110.0,3.0,3.0,2.0,1.0,Lainnya,,1200000000
+Sedayu,Bantul,100.0,55.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,375000000
+Kotagede,Yogyakarta,75.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,690000000
+Condong Catur,Sleman,60.0,33.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,225000000
+Umbulharjo,Yogyakarta,113.0,200.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,1600000000
+Bantul,Yogyakarta,79.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,590000000
+Bantul,Yogyakarta,79.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,590000000
+Condong Catur,Sleman,503.0,100.0,4.0,4.0,1.0,1.0,Lainnya,Unfurnished,2300000000
+Godean,Sleman,110.0,95.0,4.0,3.0,2.0,1.0,3300 Watt,Unfurnished,1500000000
+Sentolo,Kulon Progo,79.0,60.0,3.0,2.0,2.0,,Lainnya,Furnished,400000000
+Gamping,Sleman,79.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,670000000
+Godean,Sleman,110.0,95.0,4.0,4.0,2.0,,Lainnya,Furnished,1540000000
+Gamping,Sleman,260.0,580.0,7.0,6.0,3.0,3.0,Lainnya,Semi Furnished,8400000000
+Godean,Sleman,110.0,95.0,4.0,3.0,2.0,,Lainnya,Furnished,1540000000
+Godean,Sleman,110.0,95.0,4.0,3.0,2.0,1.0,3300 Watt,Unfurnished,1400000000
+Sentolo,Kulon Progo,79.0,60.0,3.0,2.0,2.0,,Lainnya,Furnished,400000000
+Ngaglik,Sleman,160.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,985000000
+Bantul,Bantul,30.0,79.0,2.0,1.0,1.0,1.0,3300 Watt,Unfurnished,250000000
+Bantul,Bantul,87.0,60.0,3.0,1.0,1.0,,Lainnya,,520000000
+Condong Catur,Sleman,503.0,100.0,4.0,4.0,1.0,1.0,Lainnya,Unfurnished,2300000000
+Kalasan,Sleman,90.0,56.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,675000000
+Kalasan,Sleman,90.0,56.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,675000000
+Seyegan,Sleman,103.0,47.0,2.0,1.0,1.0,,Lainnya,Unfurnished,500000000
+Sleman,Yogyakarta,153.0,135.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,3230000000
+Wonosari,Gunung Kidul,105.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,290000000
+Seyegan,Sleman,571.0,200.0,4.0,3.0,1.0,,Lainnya,Unfurnished,975000000
+Godean,Sleman,80.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,762130000
+Sleman,Yogyakarta,110.0,107.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2110000000
+Sleman,Yogyakarta,260.0,142.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,4490000000
+Kalasan,Sleman,124.0,70.0,3.0,1.0,1.0,,Lainnya,Unfurnished,800000000
+Mlati,Sleman,314.0,125.0,6.0,4.0,1.0,,2200 Watt,Semi Furnished,1500000000
+Sentolo,Kulon Progo,71.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,350000000
+Godean,Sleman,80.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,762130000
+Tempel,Sleman,130.0,55.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,645000000
+Sidoarum,Sleman,108.0,109.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1650000000
+Sidoarum,Sleman,108.0,109.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1650000000
+Kaliurang,Yogyakarta,208.0,65.0,3.0,1.0,1.0,,Lainnya,Unfurnished,985000000
+Ngaglik,Sleman,74.0,36.0,2.0,1.0,1.0,1.0,Lainnya,Unfurnished,450000000
+Ngaglik,Sleman,70.0,57.0,2.0,1.0,1.0,,Lainnya,Furnished,745000000
+Seturan,Yogyakarta,89.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,598000000
+Kotagede,Yogyakarta,79.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,780000000
+Tepus,Gunung Kidul,92.0,70.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,745000000
+Ponjong,Gunung Kidul,92.0,70.0,3.0,2.0,2.0,,Lainnya,,745000000
+Semin,Gunung Kidul,92.0,70.0,3.0,2.0,2.0,,Lainnya,,745000000
+Ngawen,Gunung Kidul,92.0,70.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,745000000
+Nglipar,Gunung Kidul,85.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,484000000
+Piyungan,Bantul,85.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,484000000
+Patuk,Gunung Kidul,85.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,484000000
+Playen,Gunung Kidul,85.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,484000000
+Wonosari,Gunung Kidul,85.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,484000000
+Godean,Sleman,125.0,63.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,575000000
+Pundong,Bantul,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Purwomartani,Yogyakarta,180.0,180.0,5.0,3.0,1.0,,Lainnya,Semi Furnished,2300000000
+Ngemplak,Sleman,122.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,890000000
+Kretek,Bantul,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Sanden,Bantul,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Bambanglipuro,Bantul,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Pandak,Bantul,220.0,248.0,6.0,7.0,2.0,,1300 Watt,Unfurnished,3370000000
+Dlingo,Bantul,220.0,248.0,6.0,7.0,2.0,,1300 Watt,Unfurnished,3370000000
+Kalasan,Sleman,129.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,607000000
+Kalasan,Sleman,90.0,56.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,675000000
+Kulonprogo,Kulon Progo,192.0,60.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,626000000
+Gondokusuman,Yogyakarta,128.0,200.0,4.0,2.0,2.0,1.0,1300 Watt,Semi Furnished,2300000000
+Gamping,Sleman,70.0,107.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,950000000
+Godean,Sleman,108.0,109.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1650000000
+Kalasan,Sleman,55.0,,3.0,2.0,1.0,,Lainnya,,595000000
+Sleman,Yogyakarta,105.0,36.0,3.0,1.0,1.0,,Lainnya,,900000000
+Godean,Sleman,80.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,762130000
+Imogiri,Yogyakarta,79.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,598000000
+Imogiri,Bantul,79.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,598000000
+Jetis,Bantul,79.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,598000000
+Piyungan,Bantul,79.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,598000000
+Sedayu,Bantul,79.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,598000000
+Banguntapan,Bantul,62.0,50.0,3.0,1.0,1.0,,900 Watt,Semi Furnished,445000000
+Kalasan,Sleman,101.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,1100000000
+Sleman,Yogyakarta,240.0,150.0,4.0,3.0,1.0,,2200 Watt,Unfurnished,2400000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,1.0,2200 Watt,Unfurnished,499000000
+Sedayu,Bantul,71.0,60.0,3.0,2.0,2.0,1.0,2200 Watt,Unfurnished,499000000
+Maguwoharjo,Yogyakarta,110.0,55.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,700000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,700000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,700000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,700000000
+Prambanan,Sleman,96.0,36.0,2.0,1.0,1.0,,Lainnya,,375000000
+Ngemplak,Sleman,90.0,90.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,920000000
+Depok,Sleman,365.0,390.0,7.0,4.0,2.0,1.0,5500 Watt,,4500000000
+Pengasih,Kulon Progo,105.0,41.0,2.0,1.0,1.0,,1300 Watt,Semi Furnished,550000000
+Sleman,Sleman,90.0,90.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,920000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,,457000000
+Godean,Sleman,100.0,114.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1570000000
+Sentolo,Kulon Progo,79.0,60.0,3.0,2.0,2.0,,Lainnya,Furnished,499000000
+Wonosari,Gunung Kidul,62.0,40.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,304000000
+Ngemplak,Sleman,114.0,50.0,2.0,1.0,1.0,,Lainnya,,457000000
+Ngaglik,Sleman,149.0,107.0,4.0,3.0,2.0,,Lainnya,,1370000000
+Ngaglik,Sleman,170.0,123.0,4.0,3.0,2.0,,Lainnya,,1880000000
+Ngaglik,Sleman,190.0,107.0,4.0,3.0,2.0,,Lainnya,,1960000000
+Depok,Sleman,82.0,551.0,2.0,1.0,1.0,2.0,Lainnya,Unfurnished,690000000
+Banguntapan,Bantul,158.0,115.0,3.0,2.0,1.0,,Lainnya,,1350000000
+Pengasih,Kulon Progo,114.0,50.0,2.0,1.0,1.0,,Lainnya,,457000000
+Pengasih,Kulon Progo,50.0,127.0,2.0,1.0,1.0,,Lainnya,,420000000
+Wates,Kulon Progo,169.0,65.0,3.0,1.0,1.0,,Lainnya,,543000000
+Wates,Kulon Progo,160.0,65.0,3.0,1.0,1.0,,Lainnya,,539000000
+Bantul,Yogyakarta,84.0,84.0,2.0,1.0,1.0,1.0,Lainnya,,400000000
+Ngaglik,Sleman,146.0,106.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,1350000000
+Purwomartani,Sleman,170.0,120.0,4.0,2.0,1.0,,2200 Watt,Unfurnished,1330000000
+Depok,Sleman,111.0,132.0,4.0,4.0,2.0,2.0,Lainnya,Furnished,1780000000
+Ngemplak,Sleman,100.0,75.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,725000000
+Ngaglik,Sleman,132.0,200.0,4.0,5.0,2.0,2.0,Lainnya,Unfurnished,2600000000
+Ngemplak,Sleman,130.0,122.0,3.0,3.0,2.0,,Lainnya,Furnished,1590000000
+Mlati,Sleman,116.0,160.0,3.0,3.0,2.0,2.0,Lainnya,Furnished,2350000000
+Purwomartani,Yogyakarta,201.0,230.0,5.0,4.0,1.0,1.0,Lainnya,Furnished,3300000000
+Purwomartani,Yogyakarta,120.0,85.0,,,3.0,1.0,Lainnya,Unfurnished,920000000
+Purwomartani,Yogyakarta,78.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Purwomartani,Yogyakarta,170.0,120.0,3.0,1.0,1.0,,Lainnya,Unfurnished,1380000000
+Purwomartani,Yogyakarta,95.0,75.0,,,1.0,3.0,Lainnya,Unfurnished,600000000
+Godean,Sleman,90.0,110.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1690000000
+Gamping,Sleman,80.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,425000000
+Godean,Sleman,108.0,108.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1570000000
+Sleman,Sleman,100.0,60.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,585000000
+Godean,Sleman,93.0,98.0,3.0,3.0,2.0,,Lainnya,Unfurnished,700000000
+Godean,Sleman,93.0,98.0,3.0,3.0,2.0,,Lainnya,Unfurnished,770000000
+Kasihan,Bantul,156.0,156.0,3.0,2.0,1.0,,Lainnya,Furnished,900000000
+Purwomartani,Sleman,80.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,565000000
+Minomartani,Sleman,105.0,180.0,4.0,2.0,2.0,,2200 Watt,Unfurnished,1250000000
+Sleman,Sleman,155.0,140.0,4.0,1.0,1.0,,1300 Watt,,700000000
+Maguwoharjo,Yogyakarta,180.0,126.0,3.0,1.0,1.0,1.0,2200 Watt,,1750000000
+Maguwoharjo,Yogyakarta,95.0,110.0,3.0,3.0,1.0,,2200 Watt,,1420000000
+Kalasan,Sleman,259.0,306.0,4.0,3.0,1.0,1.0,2200 Watt,,1500000000
+Ngemplak,Sleman,107.0,80.0,3.0,3.0,1.0,,2200 Watt,,1350000000
+Condong Catur,Sleman,503.0,100.0,4.0,4.0,1.0,,4400 Watt,,2300000000
+Gondokusuman,Yogyakarta,1167.0,2000.0,,2.0,3.0,5.0,Lainnya,Unfurnished,35000000000
+Godean,Sleman,102.0,55.0,2.0,1.0,1.0,,Lainnya,,615000000
+Gamping,Sleman,280.0,330.0,4.0,3.0,3.0,1.0,Lainnya,,2500000000
+Depok,Sleman,105.0,155.0,4.0,4.0,2.0,,Lainnya,,1750000000
+Depok,Sleman,200.0,250.0,5.0,4.0,2.0,,Lainnya,Furnished,3600000000
+Depok,Sleman,200.0,250.0,5.0,4.0,2.0,,Lainnya,Furnished,3600000000
+Jetis,Yogyakarta,248.0,167.0,6.0,2.0,1.0,,Lainnya,Furnished,3000000000
+Ngampilan,Yogyakarta,462.0,250.0,2.0,3.0,1.0,,Lainnya,Unfurnished,2500000000
+Sleman,Sleman,389.0,100.0,4.0,2.0,1.0,,Lainnya,Unfurnished,1650000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Banguntapan,Bantul,120.0,150.0,3.0,3.0,2.0,,Lainnya,,2300000000
+Godean,Sleman,220.0,284.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Wonosari,Gunung Kidul,70.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,350000000
+Umbulharjo,Yogyakarta,294.0,100.0,1.0,1.0,1.0,,1300 Watt,Unfurnished,2940000000
+Kasihan,Bantul,348.0,250.0,5.0,3.0,,,1300 Watt,Unfurnished,3500000000
+Gamping,Sleman,120.0,114.0,3.0,2.0,2.0,,2200 Watt,Furnished,2380000000
+Kalasan,Sleman,291.0,252.0,4.0,4.0,2.0,1.0,Lainnya,Unfurnished,4900000000
+Gondokusuman,Yogyakarta,815.0,350.0,7.0,4.0,,,1300 Watt,Unfurnished,23000000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Kotagede,Yogyakarta,109.0,90.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1200000000
+Ngemplak,Sleman,80.0,36.0,1.0,1.0,1.0,,Lainnya,Unfurnished,500000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Condong Catur,Sleman,1020.0,450.0,6.0,3.0,1.0,6.0,3500 Watt,Unfurnished,5500000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Kaliurang,Yogyakarta,83.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,585000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Banguntapan,Bantul,81.0,90.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,799000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Kalasan,Sleman,200.0,120.0,3.0,2.0,1.0,,2200 Watt,Furnished,1850000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Kalasan,Sleman,97.0,46.0,2.0,1.0,1.0,,Lainnya,Unfurnished,655000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,2.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Kotagede,Yogyakarta,79.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,590000000
+Kalasan,Sleman,100.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,600000000
+Banguntapan,Bantul,691.0,500.0,6.0,5.0,2.0,1.0,2200 Watt,,4250000000
+Kalasan,Sleman,100.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,600000000
+Purwomartani,Sleman,207.0,160.0,4.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1140000000
+Purwomartani,Sleman,207.0,160.0,4.0,2.0,1.0,1.0,1300 Watt,Unfurnished,1140000000
+Kaliurang,Yogyakarta,208.0,65.0,3.0,1.0,1.0,,Lainnya,Unfurnished,985000000
+Semanu,Gunung Kidul,75.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,690000000
+Sleman,Sleman,115.0,70.0,3.0,1.0,1.0,1.0,1300 Watt,Furnished,990000000
+Kasihan,Bantul,150.0,200.0,4.0,4.0,2.0,1.0,2200 Watt,Semi Furnished,1700000000
+Purwomartani,Sleman,98.0,75.0,3.0,2.0,1.0,,1300 Watt,,750000000
+Purwomartani,Sleman,224.0,180.0,4.0,4.0,2.0,1.0,3300 Watt,Furnished,2600000000
+Sedayu,Bantul,71.0,60.0,3.0,2.0,2.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,1.0,2200 Watt,Unfurnished,499000000
+Sleman,Sleman,134.0,134.0,4.0,2.0,2.0,1.0,2200 Watt,Semi Furnished,1500000000
+Sleman,Yogyakarta,82.0,47.0,2.0,1.0,1.0,,Lainnya,Unfurnished,622000000
+Wonosari,Gunung Kidul,60.0,34.0,2.0,1.0,1.0,1.0,Lainnya,,166000000
+Ngaglik,Sleman,125.0,165.0,3.0,3.0,2.0,1.0,3300 Watt,Furnished,2050000000
+Maguwoharjo,Yogyakarta,100.0,125.0,3.0,3.0,1.0,,2200 Watt,Furnished,1550000000
+Godean,Sleman,110.0,95.0,3.0,2.0,2.0,1.0,3300 Watt,,1540000000
+Sleman,Sleman,110.0,95.0,4.0,3.0,2.0,1.0,3300 Watt,Unfurnished,1500000000
+Godean,Sleman,330.0,275.0,6.0,6.0,2.0,1.0,3300 Watt,Unfurnished,4300000000
+Sedayu,Bantul,80.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,329000000
+Condong Catur,Sleman,138.0,153.0,4.0,4.0,2.0,,3500 Watt,Furnished,2800000000
+Kalasan,Sleman,101.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Godean,Sleman,220.0,248.0,6.0,6.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Ngemplak,Sleman,122.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,870000000
+Gamping,Sleman,107.0,75.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,849000000
+Mlati,Sleman,129.0,150.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2650000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,2200 Watt,Unfurnished,3370000000
+Godean,Sleman,220.0,248.0,6.0,7.0,2.0,,1300 Watt,Unfurnished,3370000000
+Gamping,Sleman,107.0,75.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,849000000
+Sleman,Yogyakarta,185.0,300.0,13.0,13.0,2.0,,Lainnya,Furnished,3000000000
+Maguwoharjo,Yogyakarta,164.0,300.0,5.0,5.0,2.0,2.0,2200 Watt,Unfurnished,1600000000
+Ngemplak,Sleman,122.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,870000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,499000000
+Depok,Sleman,220.0,380.0,18.0,19.0,2.0,,1300 Watt,Furnished,3800000000
+Kalasan,Sleman,101.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,825000000
+Sedayu,Bantul,80.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,329000000
+Kalasan,Sleman,100.0,85.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,600000000
+Purwomartani,Sleman,207.0,160.0,4.0,2.0,1.0,1.0,1300 Watt,Semi Furnished,1140000000
+Ngaglik,Sleman,103.0,100.0,3.0,3.0,2.0,,2200 Watt,Semi Furnished,1310000000
+Condong Catur,Sleman,130.0,180.0,4.0,3.0,2.0,,Lainnya,Unfurnished,2100000000
+Sleman,Sleman,112.0,80.0,3.0,1.0,2.0,,1300 Watt,Unfurnished,745000000
+Sleman,Sleman,112.0,80.0,3.0,1.0,2.0,,1300 Watt,Unfurnished,745000000
+Sleman,Sleman,112.0,80.0,3.0,1.0,2.0,,1300 Watt,Unfurnished,745000000
+Mlati,Sleman,110.0,145.0,3.0,3.0,2.0,,Lainnya,Unfurnished,3160000000
+Godean,Sleman,90.0,50.0,2.0,1.0,1.0,,Lainnya,Furnished,690000000
+Depok,Sleman,105.0,100.0,3.0,3.0,2.0,,2200 Watt,Unfurnished,1100000000
+Maguwoharjo,Yogyakarta,103.0,115.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1350000000
+Caturtunggal,Sleman,807.0,300.0,7.0,3.0,1.0,1.0,3500 Watt,Unfurnished,7300000000
+Sleman,Sleman,122.0,85.0,3.0,2.0,1.0,,Lainnya,Unfurnished,925000000
+Kotagede,Yogyakarta,158.0,115.0,3.0,1.0,1.0,,2200 Watt,Semi Furnished,1390000000
+Bantul,Yogyakarta,134.0,148.0,3.0,2.0,2.0,,Lainnya,Unfurnished,995000000
+Depok,Sleman,106.0,110.0,3.0,3.0,2.0,,2200 Watt,Furnished,1740000000
+Sleman,Yogyakarta,98.0,75.0,3.0,2.0,1.0,,Lainnya,Semi Furnished,749000000
+Ngaglik,Sleman,135.0,180.0,4.0,3.0,2.0,1.0,2200 Watt,Unfurnished,2500000000
+Gamping,Sleman,159.0,206.0,4.0,3.0,2.0,1.0,Lainnya,Unfurnished,2650000000
+Ngaglik,Sleman,154.0,230.0,4.0,3.0,2.0,1.0,3500 Watt,Semi Furnished,3500000000
+Ngaglik,Sleman,96.0,120.0,3.0,3.0,2.0,,Lainnya,Furnished,1700000000
+Depok,Sleman,202.0,300.0,5.0,5.0,2.0,4.0,3500 Watt,Semi Furnished,2800000000
+Depok,Sleman,120.0,130.0,4.0,3.0,2.0,,Lainnya,Furnished,1890000000
+Depok,Sleman,109.0,120.0,3.0,3.0,2.0,,3300 Watt,Unfurnished,1760000000
+Sleman,Yogyakarta,115.0,170.0,4.0,4.0,2.0,,Lainnya,Furnished,1980000000
+Gamping,Sleman,135.0,200.0,3.0,4.0,2.0,,Lainnya,Furnished,2990000000
+Sleman,Sleman,90.0,65.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1650000000
+Mantrijeron,Yogyakarta,88.0,97.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2590000000
+Ngaglik,Sleman,109.0,58.0,3.0,2.0,1.0,,Lainnya,Furnished,949000000
+Maguwoharjo,Yogyakarta,134.0,171.0,5.0,4.0,2.0,,Lainnya,Furnished,2580000000
+Banguntapan,Bantul,72.0,50.0,2.0,1.0,1.0,,Lainnya,Unfurnished,550000000
+Purwomartani,Sleman,159.0,170.0,4.0,3.0,2.0,,3500 Watt,Furnished,2500000000
+Ngaglik,Sleman,388.0,137.0,4.0,2.0,1.0,1.0,Lainnya,Unfurnished,1950000000
+Sedayu,Bantul,449.0,176.0,3.0,1.0,1.0,1.0,Lainnya,Unfurnished,799000000
+Ngemplak,Sleman,134.0,175.0,4.0,3.0,2.0,,5500 Watt,Furnished,2580000000
+Gamping,Sleman,110.0,60.0,3.0,2.0,1.0,,Lainnya,Unfurnished,595000000
+Ngaglik,Sleman,238.0,110.0,4.0,2.0,1.0,,2200 Watt,Furnished,1620000000
+Gamping,Sleman,100.0,80.0,2.0,1.0,,,Lainnya,,650000000
+Ngemplak,Sleman,130.0,200.0,4.0,3.0,2.0,1.0,Lainnya,Furnished,1850000000
+Ngaglik,Sleman,115.0,75.0,3.0,2.0,1.0,1.0,Lainnya,Furnished,785000000
+Pengasih,Kulon Progo,128.0,65.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,482000000
+Ngaglik,Sleman,100.0,150.0,4.0,2.0,2.0,1.0,Lainnya,Unfurnished,1500000000
+Godean,Sleman,102.0,70.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,750000000
+Ngemplak,Sleman,126.0,80.0,3.0,2.0,1.0,2.0,Lainnya,Unfurnished,955000000
+Ngaglik,Sleman,120.0,70.0,3.0,2.0,1.0,,Lainnya,Unfurnished,750000000
+Banguntapan,Bantul,85.0,55.0,2.0,1.0,1.0,,Lainnya,Furnished,655000000
+Sleman,Sleman,205.0,85.0,2.0,2.0,1.0,,2200 Watt,Unfurnished,1750000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,499000000
+Sleman,Sleman,189.0,190.0,6.0,3.0,1.0,,Lainnya,Unfurnished,1450000000
+Sleman,Yogyakarta,136.0,110.0,2.0,1.0,1.0,,Lainnya,Furnished,1600000000
+Sleman,Sleman,204.0,150.0,3.0,3.0,,,900 Watt,Semi Furnished,1400000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,455000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,499000000
+Purwomartani,Yogyakarta,90.0,56.0,2.0,2.0,1.0,,1300 Watt,Unfurnished,675000000
+Purwomartani,Sleman,90.0,56.0,2.0,2.0,1.0,,1300 Watt,Unfurnished,675000000
+Ngaglik,Sleman,126.0,90.0,3.0,2.0,2.0,,1300 Watt,Unfurnished,1200000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Sentolo,Kulon Progo,71.0,60.0,3.0,2.0,1.0,1.0,2200 Watt,Unfurnished,499000000
+Ngemplak,Sleman,120.0,80.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,790000000
+Ngaglik,Sleman,160.0,185.0,3.0,3.0,2.0,,3500 Watt,Furnished,2800000000
+Prambanan,Sleman,202.0,360.0,3.0,4.0,2.0,,Lainnya,Furnished,1200000000
+Ngaglik,Sleman,121.0,45.0,2.0,1.0,1.0,,Lainnya,Unfurnished,690000000
+Depok,Sleman,130.0,180.0,4.0,3.0,2.0,,Lainnya,Unfurnished,1950000000
+Mlati,Sleman,110.0,107.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2110000000
+Mlati,Sleman,260.0,142.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,4490000000
+Mlati,Sleman,153.0,135.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,3230000000
+Sleman,Sleman,168.0,143.0,3.0,2.0,1.0,,Lainnya,Furnished,7500000000
+Caturtunggal,Sleman,1081.0,480.0,6.0,4.0,1.0,1.0,Lainnya,Unfurnished,15000000000
+Sewon,Bantul,127.0,60.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,1300000000
+Banguntapan,Bantul,120.0,160.0,4.0,3.0,3.0,,3500 Watt,Unfurnished,1100000000
+Sleman,Sleman,197.0,196.0,4.0,4.0,2.0,,5500 Watt,Semi Furnished,3900000000
+Tegalrejo,Yogyakarta,316.0,350.0,6.0,5.0,2.0,,Lainnya,Furnished,7500000000
+Sleman,Yogyakarta,140.0,75.0,3.0,2.0,1.0,,Lainnya,Unfurnished,799000000
+Purwomartani,Sleman,203.0,120.0,3.0,2.0,1.0,,Lainnya,Furnished,1740000000
+Sleman,Sleman,126.0,60.0,3.0,2.0,2.0,,Lainnya,Unfurnished,799000000
+Seyegan,Sleman,102.0,55.0,2.0,1.0,1.0,,Lainnya,Unfurnished,615000000
+Seyegan,Sleman,163.0,68.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,719000000
+Sleman,Sleman,128.0,210.0,3.0,3.0,2.0,,Lainnya,Unfurnished,2800000000
+Sleman,Sleman,90.0,50.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,685000000
+Sleman,Yogyakarta,460.0,230.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,4750000000
+Mlati,Sleman,372.0,370.0,5.0,5.0,1.0,1.0,Lainnya,Unfurnished,3500000000
+Mlati,Sleman,111.0,107.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2130000000
+Mlati,Sleman,260.0,142.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,4490000000
+Mlati,Sleman,153.0,135.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,3230000000
+Sleman,Sleman,200.0,190.0,4.0,3.0,2.0,1.0,Lainnya,Furnished,2900000000
+Depok,Sleman,103.0,54.0,3.0,1.0,1.0,,1300 Watt,Unfurnished,950000000
+Mlati,Sleman,108.0,142.0,3.0,3.0,2.0,,1300 Watt,Furnished,2250000000
+Sleman,Sleman,82.0,47.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,622000000
+Kalasan,Sleman,115.0,70.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,790000000
+Ngemplak,Sleman,155.0,170.0,4.0,3.0,2.0,,2200 Watt,Unfurnished,2400000000
+Sedayu,Bantul,84.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,495000000
+Condong Catur,Sleman,186.0,190.0,6.0,3.0,2.0,1.0,Lainnya,Unfurnished,1450000000
+Ngaglik,Sleman,105.0,110.0,3.0,2.0,2.0,,2200 Watt,Furnished,1500000000
+Banguntapan,Bantul,78.0,50.0,2.0,1.0,1.0,,1300 Watt,Furnished,799000000
+Ngemplak,Sleman,165.0,110.0,4.0,3.0,2.0,,2200 Watt,Furnished,1780000000
+Purwomartani,Sleman,100.0,40.0,2.0,1.0,1.0,,2200 Watt,Unfurnished,888000000
+Banguntapan,Bantul,72.0,36.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,295000000
+Wonosari,Gunung Kidul,62.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,304000000
+Godean,Sleman,110.0,55.0,3.0,1.0,1.0,1.0,2200 Watt,Unfurnished,700000000
+Sleman,Yogyakarta,200.0,300.0,6.0,6.0,2.0,,10000 Watt,Semi Furnished,2300000000
+Gedong Tengen,Yogyakarta,385.0,1.0,,,1.0,,Lainnya,Unfurnished,4500000000
+Caturtunggal,Sleman,432.0,632.0,26.0,13.0,1.0,,Lainnya,Unfurnished,4900000000
+Gamping,Sleman,90.0,45.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,399000000
+Banguntapan,Bantul,180.0,175.0,5.0,5.0,2.0,,4400 Watt,Unfurnished,2980000000
+Kaliurang,Yogyakarta,208.0,65.0,3.0,1.0,1.0,,Lainnya,Unfurnished,985000000
+Purwomartani,Sleman,114.0,160.0,4.0,3.0,2.0,,2200 Watt,Semi Furnished,1600000000
+Purwomartani,Sleman,180.0,180.0,4.0,3.0,2.0,,3500 Watt,Unfurnished,2300000000
+Ngemplak,Sleman,130.0,130.0,3.0,3.0,2.0,,Lainnya,Unfurnished,1550000000
+Mlati,Sleman,104.0,85.0,3.0,2.0,1.0,1.0,Lainnya,Unfurnished,750000000
+Maguwoharjo,Yogyakarta,113.0,165.0,4.0,3.0,2.0,1.0,Lainnya,,1750000000
+Mlati,Sleman,92.0,52.0,3.0,1.0,1.0,,Lainnya,Unfurnished,500000000
+Ngemplak,Sleman,106.0,60.0,3.0,1.0,1.0,,Lainnya,Unfurnished,925000000
+Ngaglik,Sleman,163.0,110.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,1100000000
+Ngaglik,Sleman,126.0,100.0,2.0,3.0,2.0,,Lainnya,Unfurnished,2500000000
+Moyudan,Sleman,118.0,50.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,380000000
+Ngemplak,Sleman,103.0,120.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1650000000
+Mergangsan,Yogyakarta,91.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Unfurnished,634000000
+Kalasan,Sleman,162.0,140.0,3.0,2.0,2.0,,Lainnya,Unfurnished,1270000000
+Ngaglik,Sleman,143.0,100.0,3.0,2.0,1.0,,Lainnya,,1380000000
+Depok,Sleman,158.0,120.0,3.0,3.0,2.0,,Lainnya,Furnished,2300000000
+Wirobrajan,Yogyakarta,79.0,40.0,2.0,1.0,1.0,1.0,1300 Watt,Furnished,597000000
+Ngaglik,Sleman,111.0,95.0,4.0,3.0,1.0,,Lainnya,Furnished,1500000000
+Kaliurang,Yogyakarta,216.0,130.0,3.0,2.0,1.0,1.0,Lainnya,Semi Furnished,1700000000
+Umbulharjo,Yogyakarta,195.0,125.0,2.0,1.0,1.0,,Lainnya,Semi Furnished,1300000000
+Kalasan,Sleman,221.0,126.0,4.0,3.0,1.0,1.0,2200 Watt,Unfurnished,975000000
+Mlati,Sleman,105.0,30.0,2.0,1.0,1.0,,Lainnya,Unfurnished,428000000
+Ngemplak,Sleman,143.0,77.0,3.0,2.0,1.0,,2200 Watt,Semi Furnished,1390000000
+Ngaglik,Sleman,388.0,137.0,3.0,1.0,,2.0,2200 Watt,Unfurnished,2200000000
+Pakem,Sleman,113.0,65.0,3.0,2.0,1.0,,1300 Watt,Unfurnished,595000000
+Sleman,Sleman,127.0,71.0,3.0,2.0,1.0,,Lainnya,Unfurnished,895000000
+Ngaglik,Sleman,110.0,60.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,450000000
+Ngaglik,Sleman,97.0,97.0,4.0,2.0,1.0,,1300 Watt,Semi Furnished,625000000
+Sleman,Sleman,125.0,150.0,3.0,3.0,2.0,,Lainnya,Semi Furnished,1690000000
+Ngaglik,Sleman,165.0,80.0,3.0,2.0,1.0,,Lainnya,Unfurnished,900000000
+Ngemplak,Sleman,122.0,80.0,3.0,2.0,1.0,,2200 Watt,Unfurnished,890000000
+Ngaglik,Sleman,70.0,57.0,2.0,1.0,1.0,,2200 Watt,Furnished,739000000
+Umbulharjo,Yogyakarta,187.0,210.0,5.0,3.0,3.0,1.0,Lainnya,Semi Furnished,2190000000
+Kalasan,Sleman,433.0,175.0,,,1.0,,1300 Watt,Unfurnished,1500000000
+Ngaglik,Sleman,85.0,65.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,1290000000
+Maguwoharjo,Yogyakarta,125.0,250.0,4.0,4.0,2.0,,Lainnya,,650000000
+Caturtunggal,Yogyakarta,311.0,402.0,17.0,17.0,3.0,5.0,Lainnya,Furnished,5700000000
+Gondokusuman,Yogyakarta,447.0,350.0,8.0,5.0,,1.0,Lainnya,,6840000000
+Sleman,Sleman,119.0,180.0,4.0,3.0,2.0,,2200 Watt,,1800000000
+Ngaglik,Sleman,119.0,36.0,2.0,1.0,1.0,,900 Watt,Unfurnished,548000000
+Ngemplak,Sleman,165.0,80.0,3.0,2.0,1.0,,Lainnya,Unfurnished,900000000
+Wonosari,Gunung Kidul,105.0,40.0,2.0,1.0,1.0,,Lainnya,Unfurnished,290000000
+Condong Catur,Sleman,283.0,253.0,5.0,3.0,2.0,1.0,5500 Watt,Semi Furnished,6000000000
+Sleman,Sleman,213.0,300.0,5.0,4.0,2.0,,Lainnya,Unfurnished,4500000000
+Maguwoharjo,Yogyakarta,259.0,200.0,4.0,2.0,2.0,1.0,1300 Watt,Unfurnished,1750000000
+Tegalrejo,Yogyakarta,198.0,198.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,2000000000
+Sleman,Yogyakarta,110.0,107.0,3.0,2.0,2.0,,2200 Watt,Unfurnished,2110000000
+Sleman,Yogyakarta,260.0,142.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,4490000000
+Sleman,Yogyakarta,166.0,135.0,3.0,3.0,2.0,,3500 Watt,Unfurnished,3370000000
+Berbah,Sleman,85.0,46.0,2.0,1.0,1.0,,1300 Watt,Unfurnished,604000000
+Godean,Sleman,98.0,60.0,2.0,1.0,1.0,,Lainnya,,750000000
+Sleman,Sleman,460.0,230.0,4.0,3.0,2.0,2.0,Lainnya,Unfurnished,4750000000
+Sleman,Sleman,261.0,220.0,6.0,7.0,1.0,1.0,Lainnya,Unfurnished,799000000
+Condong Catur,Sleman,482.0,700.0,6.0,7.0,2.0,1.0,Lainnya,Furnished,5700000000
+Ngemplak,Sleman,115.0,70.0,3.0,2.0,1.0,1.0,1300 Watt,Furnished,775000000

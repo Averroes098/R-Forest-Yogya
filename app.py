@@ -1,173 +1,98 @@
-import streamlit as st
+from flask import Flask, request, render_template, jsonify
 import joblib
-import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd
+import json
 
-# ======================
-# LOAD MODEL
-# ======================
-model = joblib.load("model/random_forest.pkl")
-encoder = joblib.load("model/location_encoder.pkl")
+app = Flask(__name__)
 
-# ======================
-# PAGE CONFIG
-# ======================
-st.set_page_config(
-    page_title="R-Forest YogyaHouse",
-    page_icon="🏠",
-    layout="wide"
-)
+# Load model dan encoder
+model = joblib.load("model/model_rumah_jogja_rf_tuned.pkl")
+le_district = joblib.load("model/encoder_district.pkl")
+le_city = joblib.load("model/encoder_city.pkl")
+le_furnishing = joblib.load("model/encoder_furnishing.pkl")
 
-# ======================
-# CUSTOM CSS
-# ======================
-st.markdown("""
-<style>
-.main {
-    background-color: #f8fafc;
+# Load mapping kota -> kecamatan
+with open('city_district_mapping.json', 'r') as f:
+    city_district_map = json.load(f)
+
+# Filter nilai 'Unknown' dari kota dan furnishing
+city_choices = [c for c in le_city.classes_.tolist() if c != 'Unknown']
+furnishing_choices = [f for f in le_furnishing.classes_.tolist() if f != 'Unknown']
+
+# Mapping furnishing ke Bahasa Indonesia untuk ditampilkan
+furnishing_display_map = {
+    'Furnished': 'Berperabot',
+    'Semi Furnished': 'Semi Berperabot',
+    'Unfurnished': 'Tidak Berperabot'
 }
+# Jika ada 'Unknown' tidak ditampilkan, jadi abaikan
 
-.big-font {
-    font-size:28px !important;
-    font-weight:bold;
-    color:#1e293b;
-}
+# Urutkan
+city_choices.sort()
+furnishing_choices.sort()
 
-.card {
-    background-color:white;
-    padding:20px;
-    border-radius:15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
-}
+# Buat daftar pilihan furnishing dengan (value, label)
+furnishing_options = [(f, furnishing_display_map.get(f, f)) for f in furnishing_choices]
 
-.metric-card {
-    background: white;
-    padding:15px;
-    border-radius:12px;
-    text-align:center;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.08);
-}
-</style>
-""", unsafe_allow_html=True)
+features = [
+    'landSize', 'buildingSize', 'bedrooms', 'bathrooms', 'floors', 'garages',
+    'electricity', 'total_rooms', 'land_building_ratio',
+    'district_enc', 'city_enc', 'furnishing_enc'
+]
 
-# ======================
-# SIDEBAR
-# ======================
-st.sidebar.image(
-    "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-    width=120
-)
+@app.route('/')
+def index():
+    return render_template('index.html',
+                           cities=city_choices,
+                           furnishing_options=furnishing_options)
 
-st.sidebar.title("R-Forest YogyaHouse")
-st.sidebar.markdown("---")
+@app.route('/get_districts/<city>')
+def get_districts(city):
+    districts = city_district_map.get(city, [])
+    districts = [d for d in districts if d != 'Unknown']
+    return jsonify(sorted(districts))
 
-st.sidebar.info("""
-**Prediksi Harga Rumah Yogyakarta**
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        landSize = float(request.form['landSize'])
+        buildingSize = float(request.form['buildingSize'])
+        bedrooms = float(request.form['bedrooms'])
+        bathrooms = float(request.form['bathrooms'])
+        floors = float(request.form['floors'])
+        garages = float(request.form['garages'])
+        electricity = float(request.form['electricity'])
+        city = request.form['city']
+        district = request.form['district']
+        furnishing = request.form['furnishing']  # value asli (Furnished, Semi Furnished, Unfurnished)
 
-Model:
-Random Forest Regressor
+        total_rooms = bedrooms + bathrooms
+        land_building_ratio = landSize / (buildingSize + 1e-6)
 
-Dataset:
-Yogyakarta Housing Price
-""")
+        district_enc = le_district.transform([district])[0] if district in le_district.classes_ else -1
+        city_enc = le_city.transform([city])[0] if city in le_city.classes_ else -1
+        furnishing_enc = le_furnishing.transform([furnishing])[0] if furnishing in le_furnishing.classes_ else -1
 
-# ======================
-# HEADER
-# ======================
-st.markdown('<p class="big-font">🏠 R-Forest YogyaHouse Dashboard</p>', unsafe_allow_html=True)
+        input_data = pd.DataFrame([[
+            landSize, buildingSize, bedrooms, bathrooms, floors, garages,
+            electricity, total_rooms, land_building_ratio,
+            district_enc, city_enc, furnishing_enc
+        ]], columns=features)
 
-st.write("Prediksi harga rumah berbasis Machine Learning di wilayah Yogyakarta")
+        prediction = model.predict(input_data)[0]
+        price_formatted = f"Rp{prediction:,.0f}".replace(",", ".")
 
-st.markdown("---")
+        return render_template('index.html',
+                               prediction=price_formatted,
+                               cities=city_choices,
+                               city_selected=city,
+                               furnishing_options=furnishing_options)
 
-# ======================
-# METRIC CARDS
-# ======================
-col1, col2, col3 = st.columns(3)
+    except Exception as e:
+        return render_template('index.html',
+                               error=str(e),
+                               cities=city_choices,
+                               furnishing_options=furnishing_options)
 
-with col1:
-    st.metric("Algoritma", "Random Forest")
-
-with col2:
-    st.metric("Wilayah", "Yogyakarta")
-
-with col3:
-    st.metric("Status", "Active")
-
-st.markdown("---")
-
-# ======================
-# MAIN LAYOUT
-# ======================
-left, right = st.columns([1, 1])
-
-# ======================
-# INPUT PANEL
-# ======================
-with left:
-    st.markdown("### Input Data Rumah")
-
-    location = st.selectbox(
-        "📍 Lokasi",
-        encoder.classes_
-    )
-
-    surface_area = st.number_input("Luas Tanah (m²)", 20, 1000, 100)
-    building_area = st.number_input("Luas Bangunan (m²)", 20, 1000, 80)
-    bed = st.number_input("Kamar Tidur", 1, 20, 3)
-    bath = st.number_input("Kamar Mandi", 1, 20, 2)
-    carport = st.number_input("Carport", 0, 10, 1)
-
-    predict_button = st.button("🔍 Prediksi Harga")
-
-# ======================
-# OUTPUT PANEL
-# ======================
-with right:
-    st.markdown("### Hasil Prediksi")
-
-    if predict_button:
-
-        location_encoded = encoder.transform([location])[0]
-
-        data = np.array([[
-            surface_area,
-            building_area,
-            bed,
-            bath,
-            carport,
-            location_encoded
-        ]])
-
-        prediction = model.predict(data)
-
-        st.success(f"Estimasi Harga Rumah")
-        st.markdown(f"## Rp {prediction[0]:,.0f}")
-
-        st.markdown("---")
-
-        st.markdown("### Analisis Model")
-
-        features = [
-            "Luas Tanah",
-            "Luas Bangunan",
-            "Kamar Tidur",
-            "Kamar Mandi",
-            "Carport",
-            "Lokasi"
-        ]
-
-        importance = model.feature_importances_
-
-        fig, ax = plt.subplots(figsize=(8, 4))
-        ax.bar(features, importance)
-        plt.xticks(rotation=20)
-        ax.set_ylabel("Importance")
-
-        st.pyplot(fig)
-
-# ======================
-# FOOTER
-# ======================
-st.markdown("---")
-st.caption("Developed using Streamlit + Random Forest Regressor")
+if __name__ == '__main__':
+    app.run(debug=True)

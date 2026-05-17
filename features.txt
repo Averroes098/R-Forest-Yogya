@@ -1,0 +1,12 @@
+landSize
+buildingSize
+bedrooms
+bathrooms
+floors
+garages
+electricity
+total_rooms
+land_building_ratio
+district_enc
+city_enc
+furnishing_enc
